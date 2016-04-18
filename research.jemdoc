@@ -1,0 +1,28 @@
+# jemdoc: menu{MENU}{research.html}, showsource
+= Research
+
+My research focuses on massive data analytics, computation, and communication (*MC2*) aspects in network science, including: 
+
+- Computational Big Data Analytics
+- Mobile Edge/Fog Computing, Caching and Networking (e.g., IoT, Tactile Internet)
+- Dense Communication Networking (e.g., Cloud-RAN, Fog-RAN) 
+- Sparse and Low-Rank Modeling and Optimization (e.g. Group Sparse Beamforming, Matrix Completion)
+- Large-Scale Convex and Nonconvex Optimization (e.g., ADMM, Riemannian Optimization)
+
+== Group sparse beamforming for green Cloud-RAN
+Cloud-RAN is a cost-effective network architecture that leverages recent advances in cloud computing and network function virtualization to improve energy and spectral efficiency of wireless networks. By targeting the design of green Cloud-RANs, we identified a novel performance metric, namely, /network power consumption/, which consists of the fronthaul link power consumption and RRH power consumption.  We further identified a unique group sparsity structure in the optimal beamforming vector, which unifies RRH selection and beamformer optimization. Accordingly, a novel /group sparse beamforming/ framework was proposed to promote group sparsity in the solution. The presented results and sparse optimization methodologies inspire investigations of new design problems involving both discrete and continuous variables for wireless network densification, e.g., content caching at base stations, computation offloading for mobile computing, and multiple access for massive connected devices in Internet of Things.
+
+- [http://arxiv.org/abs/1310.0234v1 Group sparse beamforming for green Cloud-RAN], Y. Shi, J. Zhang, and K. B. Letaief (*The 2016 Marconi Prize Paper Award*)
+
+
+== Sparse and low-rank optimization for TIM, caching, and index coding
+Side information provides a pivotal role for message delivery in many communication scenarios to accommodate increasingly large data sets, e.g., topological interference management (TIM), caching network. Although index coding provides a fundamental modeling framework to exploit the benefits of side information, the index coding problem itself still remains open and only a few instances have been solved. We proposed a novel sparse and low-rank optimization modeling framework for the index coding problem to characterize the tradeoff between the amount of side information and the achievable data rate. Specifically, sparsity of the model measures the amount of side information, while the low-rankness represents the achievable data rate. We proposed a novel Riemannian optimization framework by exploiting the quotient manifold geometry of fixed-rank matrices to help effectively detect the optimal rank as well as enhance sparsity. 
+
+- [http://arxiv.org/abs/1603.01729 Low-rank matrix completion for topological interference management by Riemannian pursuit], Y. Shi, J. Zhang, and K. B. Letaief
+- [ A sparse and low-rank optimization framework for index coding via Riemannian optimization], Y. Shi, and B. Mishra
+
+== Large-scale convex optimization via matrix stuffing and operator splitting
+Convex optimization is a powerful tool for data analytics and signal processing over large-scale networks. As the network size is expected to drastically increase in order to accommodate the exponentially growing data sets, performance optimization problems are entering a new era characterized by a high dimension and/or a large number of constraints.
+we present a novel two-stage approach to solve general large-scale convex optimization problems, which can effectively detect infeasibility and enjoy modeling flexibility. In the proposed approach, the original large-scale convex problem is transformed into a standard cone programming form in the first stage via matrix stuffing. The capability of yielding infeasibility certificates and enabling parallel computing is achieved by solving the homogeneous self-dual embedding of the primal-dual pair of the standard form. In the solving stage, the operator splitting method, namely, the alternating direction method of multipliers (ADMM), is adopted to solve the large-scale homogeneous self-dual embedding.
+
+- [http://arxiv.org/abs/1506.00749 Large-scale convex optimization for dense wireless cooperative networks], Y. Shi, J. Zhang, B. O’Donoghue, and K. B. Letaief
