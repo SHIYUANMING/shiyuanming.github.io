@@ -3,13 +3,23 @@
 table#tlayout {
     border: none;
     border-collapse: separate;
-    background: white;
+/*  background: white;  */
+    background: none;
 }
 
 body {
         width:100%;
-	background: white;
-	font-family: Georgia, serif;
+/*	background: white;   */
+
+        background: url("figure/background.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment: scroll;
+
+/*	font-family: Georgia, serif;  */
+        font-family: garamond;
+
+        font-size: 13pt;
 	padding-bottom: 8px;
 	margin: 0;
 }
@@ -25,6 +35,9 @@ body {
 	white-space: nowrap;
     text-align: left;
     vertical-align: top;
+
+opacity: 0.75;
+
 }
 
 #layout-menu td {
@@ -33,6 +46,7 @@ body {
 }
 
 #layout-content {
+
 	padding-top: 0.0em;
 	padding-left: 1.0em;
 	padding-right: 1.0em;
@@ -40,6 +54,8 @@ body {
     background: white;
     text-align: left;
     vertical-align: top;
+    opacity: 0.9; 
+
 }
 
 #layout-menu a {
@@ -57,7 +73,7 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #224b8d;
+	color: #fa6f00;   /* link color */
 	text-decoration: none;
 }
 
@@ -118,7 +134,7 @@ strong {
 
 
 h1, h2, h3 {
-	color: #142b8c;
+	color: #142b8c;   /* section color*/
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
