@@ -9,7 +9,7 @@ My research focuses on massive data analytics and storage, computation, and comm
 - Mobile Edge/Fog Computing, Caching and Networking (e.g., IoT, Tactile Internet)
 - Dense Communication Networking (e.g., Cloud-RAN, Fog-RAN) 
 - Sparse and Low-Rank Modeling and Optimization (e.g. Group Sparse Beamforming, Matrix Completion)
-- Large-Scale Convex and Nonconvex Optimization (e.g., ADMM, Riemannian Optimization)
+- Large-Scale Convex and Nonconvex Optimization (e.g., ADMM, Riemannian Optimization, Randomized Algorithms)
 
 == Group sparse beamforming for green Cloud-RAN
 ~~~
