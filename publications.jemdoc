@@ -2,6 +2,9 @@
 = PUBLICATIONS
 /*“After writing a story I was always empty and both sad and happy.”*/ — by Ernest Hemingway, “A Moveable Feast"
 
+== Book Chapters
+. *Y. Shi*, J. Zhang, K. B. Letaief, B. Bai and W. Chen, “Large-Scale Convex Optimization for C-RANs,” in /Cloud Radio Access Networks: Principles, Technologies, and Applications/, Cambridge University Press, 2017.
+
 == Journal Articles
 
 . *Y. Shi*, J. Zhang, and K. B. Letaief, “Enhanced group sparse beamforming for dense green Cloud-RAN: A random matrix approach,” to be submitted to /IEEE Trans. Signal Process./.
@@ -17,6 +20,7 @@
 
 == Conference Papers
 
+. Y. Su, *Y. Shi*, B. Bai, W. Chen, J. Zhang, K. B. Letaief, and S. Zhou, “Optimal stochastic power control with compressive CSI acquisition for Cloud-RAN,” in /Proc. IEEE Global Conf. Signal and Inf. Process. (GlobalSIP)/, Washington, DC, Dec. 2016.
 . K. Yang, *Y. Shi*, J. Zhang, Z. Ding and K. B. Letaief, “A low-rank approach for interference management in dense wireless networks,” in /Proc. IEEE Global Conf. Signal and Inf. Process. (GlobalSIP)/, Washington, DC, Dec. 2016.
 . K. Yang, *Y. Shi*, and Z. Ding, “Low-rank matrix completion for mobile edge caching in Fog-RAN via Riemannian optimization,” in /Proc. IEEE Global Communications Conf. (GLOBECOM)/, Washington, DC, Dec. 2016.
 . *Y. Shi*, J. Zhang, and K. B. Letaief, “Statistical group sparse beamforming for green Cloud-RAN via large system analysis,” in /Proc. IEEE Int. Symp. Inform. Theory (ISIT)/, Barcelona, Spain, Jul. 2016.
