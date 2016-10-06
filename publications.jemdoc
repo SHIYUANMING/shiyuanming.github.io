@@ -20,6 +20,7 @@
 
 == Conference Papers
 
+. *Y. Shi* and B. Mishra, “Sparse and low-rank decomposition for big data systems via smoothed Riemannian optimization,” accepted to /9th NIPS workshop on optimization for machine learning (OPT2016)/, Barcelona, Spain, Dec. 2016.
 . Y. Su, *Y. Shi*, B. Bai, W. Chen, J. Zhang, K. B. Letaief, and S. Zhou, “Optimal stochastic power control with compressive CSI acquisition for Cloud-RAN,” in /Proc. IEEE Global Conf. Signal and Inf. Process. (GlobalSIP)/, Washington, DC, Dec. 2016.
 . K. Yang, *Y. Shi*, J. Zhang, Z. Ding and K. B. Letaief, “A low-rank approach for interference management in dense wireless networks,” in /Proc. IEEE Global Conf. Signal and Inf. Process. (GlobalSIP)/, Washington, DC, Dec. 2016.
 . K. Yang, *Y. Shi*, and Z. Ding, “Low-rank matrix completion for mobile edge caching in Fog-RAN via Riemannian optimization,” in /Proc. IEEE Global Communications Conf. (GLOBECOM)/, Washington, DC, Dec. 2016.
