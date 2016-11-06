@@ -1,0 +1,23 @@
+# jemdoc: menu{MENU}{home.html}, showsource
+= Yuanming SHI 石远明
+
+~~~
+{}{img_left}{Yuanming.jpg}{alt text}{200px}{HEIGHTpx}
+*Assistant Professor*
+
+School of Information Science and Technology (SIST), ShanghaiTech University
+
+Email: shiym@shanghaitech.edu.cn
+
+Web: http:\/\/shiyuanming.github.io
+
+Office: Room 217, Building 8, 319 Yueyang Road, Shanghai 200031, China
+
+*Research areas*: computational big data analytics, information-centric networking, mobile edge/fog computing and networking, sparse and low-rank modeling, and convex and nonconvex optimization. 
+[papers/CV/YuanmingCV.pdf \[Resume\]][https://scholar.google.com/citations?user=362l5HAAAAAJ&hl=en \[Google Citations\]]
+~~~
+
+== News
+
+- My [http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6786060&newsearch=true&queryText=group%20sparse%20beamforming%20for%20green%20cloud-ran&fname=&lname=&title=&volume=&issue=&spage= paper] on Cloud-RAN won [http://www.comsoc.org/about/memberprograms/comsoc-awards/marconi *The 2016 Marconi Prize Paper Award in Wireless Communications*], joint work with Jun Zhang and Khaled B. Letaief.
+
