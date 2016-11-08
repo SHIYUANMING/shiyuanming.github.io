@@ -4,12 +4,10 @@
 
 My research focuses on massive data analytics and storage, computation, and communication (/*MC2*/) aspects in network science, including: 
 
-- Computational Big Data Analytics
-- Statistical Machine Learning (e.g., Crowdsourcing, Ranking)
-- Mobile Edge/Fog Computing, Caching and Networking (e.g., IoT, Tactile Internet)
-- Dense Communication Networking (e.g., Cloud-RAN, Fog-RAN) 
-- Sparse and Low-Rank Modeling and Optimization (e.g. Group Sparse Beamforming, Matrix Completion)
-- Large-Scale Convex and Nonconvex Optimization (e.g., ADMM, Riemannian Optimization, Randomized Algorithms)
+- Scalable convex and nonconvex optimization
+- Wireless cloud/fog computing and networking
+- Computational big data analytics
+- Statistical machine learning
 
 == Group sparse beamforming for green Cloud-RAN
 ~~~
