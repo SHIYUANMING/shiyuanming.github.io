@@ -2,10 +2,10 @@
 = RESEARCH 
 /*“We have not succeeded in answering all our problems. The answers we have found only serve to raise a whole set of new questions. In some ways we feel we are as confused as ever, but we believe we are confused on a higher level and about more important things.”*/ — posted outside the mathematics reading room, Tromsø University
 
-My research focuses on massive data analytics and storage, computation, and communication (/*MC2*/) aspects in network science, including: 
+My research focuses on mathematics, computation, and communication (/*MC2*/) for data science and network science, including: 
 
 - Scalable convex and nonconvex optimization
-- Wireless cloud/fog computing and networking
+- Wireless cloud-fog computing and networking
 - Computational big data analytics
 - Statistical machine learning
 
