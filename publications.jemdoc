@@ -5,8 +5,8 @@
 == In the Pipeline…
 . *Y. Shi*, J. Zhang, W. Chen, and K. B. Letaief, “Generalized sparse and low-rank optimization for ultra-dense networks,” submitted to /IEEE Commun. Mag./, May 2017.
 . J. Dong, K. Yang, *Y. Shi*, and W. Chen, “Ranking from crowdsourced pairwise comparisons via smoothed Riemannian optimization,” submitted to /IEEE Trans. Signal Process./, May 2017.
-. X. Liu, *Y. Shi*, J. Zhang, and K. B. Letaief, “Massive CSI acquisition for dense Cloud-RANs with spatial-temporal dynamics,” submitted to /IEEE Trans. Wireless Commun./, Mar. 2017.
-. X. Peng, *Y. Shi*, J. Zhang, and K. B. Letaief, “Layered group sparse beamforming for cache-enabled wireless networks,” submitted to /IEEE Trans. Commun./, under revision.
+. X. Liu, *Y. Shi*, J. Zhang, and K. B. Letaief, “Massive CSI acquisition for dense Cloud-RANs with spatial-temporal dynamics,” submitted to /IEEE Trans. Wireless Commun./, under revision.
+. X. Peng, *Y. Shi*, J. Zhang, and K. B. Letaief, “Layered group sparse beamforming for cache-enabled wireless networks,” submitted to /IEEE Trans. Commun./, under revision. [https://arxiv.org/abs/1707.05993 \[paper\]]
 . *Y. Shi*, J. Zhang, W. Chen, and K. B. Letaief, “Enhanced group sparse beamforming for dense green Cloud-RAN: A random matrix approach,” submitted to /IEEE Trans. Wireless Commun./, under revision.
 . *Y. Shi*, B. Mishra, and W. Chen, “Topological interference management with user admission control via Riemannian optimization,” submitted to /IEEE Trans. Wireless Commun./, under revision. [http://128.84.21.199/abs/1607.07252 \[paper\]]
 
@@ -24,6 +24,7 @@
 . *Y. Shi*, J. Zhang, and K. B. Letaief, “Group sparse beamforming for green Cloud-RAN,” /IEEE Trans. Wireless Commun./, vol. 13, no. 5, pp. 2809-2823, May 2014. [papers/Journal/gsbf_twc14.pdf \[paper\]] [http://www.comsoc.org/about/memberprograms/comsoc-awards/marconi (*The 2016 Marconi Prize Paper Award*)]
 
 == Conference Papers
+. K. Yang, *Y. Shi*, and Z. Ding, “Generalized matrix completion for low complexity transceiver processing in cache-aided Fog-RAN via the Burer-Monteiro approach,” in /Proc. IEEE Global Conf. Signal and Inf. Process. (GlobalSIP)/, Montreal, Canada, Nov. 2017.
 . *Y. Shi*, B. Mishra, X. Liu, and W. Chen, “A sparse and low-rank optimization framework for network topology control in dense Fog-RAN,” in /Pro. IEEE Veh. Technol. Conf. (VTC)/, Sydney, Australia, Jun. 2017.
 . X. Liu, *Y. Shi*, J. Zhang, and K. B. Letaief, “Massive CSI acquisition in dense Cloud-RAN with spatial and temporal prior information,” in /Proc. IEEE Int. Conf. Commun. (ICC)/, Paris, France, May 2017.
 . *Y. Shi* and B. Mishra, “Sparse and low-rank decomposition for big data systems via smoothed Riemannian optimization,” in /9th NIPS workshop on optimization for machine learning (OPT2016)/, Barcelona, Spain, Dec. 2016.
