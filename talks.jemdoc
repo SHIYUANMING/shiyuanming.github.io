@@ -1,0 +1,13 @@
+# jemdoc: menu{MENU}{talks.html}, showsource
+= TALKS
+
+== Tutorials
+
+. [sparserank.html ``Sparse and Low-Rank Optimization for Dense Wireless Networks: Models, Algorithms and Theory”]
+.. Tutorial,  IEEE Global Communications Conference (GLOBECOM), Singapore, December 2017.
+
+
+
+
+
+
