@@ -21,7 +21,7 @@
 . *Y. Shi*, J. Zhang, and K. B. Letaief, “Robust group sparse beamforming for multicast green Cloud-RAN with imperfect CSI,” /IEEE Trans. Signal Process./, vol. 63, no. 17, pp. 4647-4659, Sept. 2015. [papers/Journal/rgsbf_tsp15.pdf \[paper\]]
 . *Y. Shi*, J. Zhang, K. B. Letaief, B. Bai, and W. Chen, “Large-scale convex optimization for ultra-dense Cloud-RAN,” /IEEE Wireless Commun. Mag./, vol. 22, no. 3, pp. 84-91, Jun. 2015. [papers/Journal/cran_wcmag15.pdf \[paper\]]
 . *Y. Shi*, J. Zhang, and K. B. Letaief, “Optimal stochastic coordinated beamforming for wireless cooperative networks with CSI uncertainty,” /IEEE Trans. Signal Process./, vol. 63,, no. 4, pp. 960-973, Feb. 2015. [papers/Journal/scb_tsp15.pdf \[paper\]]
-. *Y. Shi*, J. Zhang, and K. B. Letaief, “Group sparse beamforming for green Cloud-RAN,” /IEEE Trans. Wireless Commun./, vol. 13, no. 5, pp. 2809-2823, May 2014. [papers/Journal/gsbf_twc14.pdf \[paper\]] [http://www.comsoc.org/about/memberprograms/comsoc-awards/marconi (*The 2016 Marconi Prize Paper Award*)]
+. *Y. Shi*, J. Zhang, and K. B. Letaief, “Group sparse beamforming for green Cloud-RAN,” /IEEE Trans. Wireless Commun./, vol. 13, no. 5, pp. 2809-2823, May 2014. [papers/Journal/gsbf_twc14.pdf \[paper\]] [https://github.com/SHIYUANMING/large-scale-convex-optimization \[codes\]] [http://www.comsoc.org/about/memberprograms/comsoc-awards/marconi (*The 2016 Marconi Prize Paper Award*)]
 
 == Conference Papers
 . K. Yang, *Y. Shi*, and Z. Ding, “Generalized matrix completion for low complexity transceiver processing in cache-aided Fog-RAN via the Burer-Monteiro approach,” in /Proc. IEEE Global Conf. Signal and Inf. Process. (GlobalSIP)/, Montreal, Canada, Nov. 2017.

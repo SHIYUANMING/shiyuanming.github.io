@@ -7,6 +7,12 @@
 - [http://www.ece.ust.hk/~eejzhang/ Jun Zhang], The Hong Kong University of Science and Technology, Hong Kong.
 - [http://shiyuanming.github.io/ Yuanming Shi], ShanghaiTech University, Shanghai, China.
 
+*Tutorial Materials:*
+- Slides (Part I), structured sparse models for large-scale network adaptation
+- Slides (Part II), generalized low-rank models with network side information
+- Slides (Part III), large-scale convex and nonconvex optimization: algorithms and geometry
+- Lecture notes
+
 == Summary
 As mobile data traffic keeps growing at an exponential rate, and mobile applications pose more and more stringent and diverse requirements, wireless networks are facing unprecedented pressures. To further evolve wireless networks and maintain their competitiveness, network densification stands out as a promising approach. By deploying more access points, possibly with different capabilities, we can not only increase network capacity, but also improve network energy efficiency, enable low-latency mobile applications, and provide access for massive mobile devices. However, this will also bring formidable challenges to network optimization and resource allocation, given the highly complex network topology, the massive amount of required side information, and the high computational requirement. Typical design problems will be nonconvex in nature, and of enormously large scales. Thus disruptive techniques will be needed to fully exploit the benefits of dense wireless networks. The aim of this tutorial is to present recent advances in sparse and low-rank techniques for optimizing dense wireless networks, with a comprehensive coverage including modeling, algorithm design, and theoretical analysis. Through typical examples, the powerfulness of this set of tools will be demonstrated, and their abilities in solving key design problems in dense wireless networks will be highlighted.
 
@@ -15,30 +21,38 @@ As mobile data traffic keeps growing at an exponential rate, and mobile applicat
 
 
 == Structured Sparse Optimization for Large-Scale Network Adaptation
+~~~
+{}{img_left}{figure/cran.pdf}{alt text}{WIDTHpx}{150px}
 Network densification leads to large-scale network optimization problems involving both discrete and continuous decision variables, which motivates us to enforce sparsity structures in the solutions. Examples include radio access point selection, backhual data assignment, user admission control, massive device connectivity, etc. The structured sparsity harnesses the benefits of modeling flexibility and algorithmic speed-ups. However, the sparse function is nonconvex and is thus computationally expensive. Furthermore, sparse optimization problems in dense wireless networks have more complicated structures, and new algorithmic and theoretical challenges arise. We will present novel and efficient convex relaxation methodologies for both objectives and constraints, followed by various smoothing techniques. 
+~~~
 
 . X. Peng, *Y. Shi*, J. Zhang, and K. B. Letaief, “Layered group sparse beamforming for cache-enabled wireless networks,” submitted to /IEEE Trans. Commun./, under revision. [https://arxiv.org/abs/1707.05993 \[paper\]]
 . *Y. Shi*, J. Cheng, J. Zhang, B. Bai, W. Chen and K. B. Letaief, “Smoothed /Lp/-minimization for green Cloud-RAN with user admission control,” /IEEE J. Select. Areas Commun./, vol. 34, no. 4, Apr. 2016. [papers/Journal/smgsbf_jsac16.pdf \[paper\]]
 . *Y. Shi*, J. Zhang, and K. B. Letaief, “Robust group sparse beamforming for multicast green Cloud-RAN with imperfect CSI,” /IEEE Trans. Signal Process./, vol. 63, no. 17, pp. 4647-4659, Sept. 2015. [papers/Journal/rgsbf_tsp15.pdf \[paper\]]
 . *Y. Shi*, J. Zhang, and K. B. Letaief, “Optimal stochastic coordinated beamforming for wireless cooperative networks with CSI uncertainty,” /IEEE Trans. Signal Process./, vol. 63,, no. 4, pp. 960-973, Feb. 2015. [papers/Journal/scb_tsp15.pdf \[paper\]]
-. *Y. Shi*, J. Zhang, and K. B. Letaief, “Group sparse beamforming for green Cloud-RAN,” /IEEE Trans. Wireless Commun./, vol. 13, no. 5, pp. 2809-2823, May 2014. [papers/Journal/gsbf_twc14.pdf \[paper\]] [http://www.comsoc.org/about/memberprograms/comsoc-awards/marconi (*The 2016 Marconi Prize Paper Award*)]
+. *Y. Shi*, J. Zhang, and K. B. Letaief, “Group sparse beamforming for green Cloud-RAN,” /IEEE Trans. Wireless Commun./, vol. 13, no. 5, pp. 2809-2823, May 2014. [papers/Journal/gsbf_twc14.pdf \[paper\]] [https://github.com/SHIYUANMING/large-scale-convex-optimization \[codes\]] [http://www.comsoc.org/about/memberprograms/comsoc-awards/marconi (*The 2016 Marconi Prize Paper Award*)]
+
 
 
 == Generalized Low-Rank Optimization with Network Side Information
+~~~
+{}{img_left}{figure/lowrank.pdf}{alt text}{WIDTHpx}{150px}
 Dense wireless networks are highly complex to optimize, for which it is critical to exploit the available network side information. For example, network connectivity information, cached content at the access points, and locally computed intermediate values, all serve as exploitable side information for efficiently designing coding and decoding in dense wireless networks. We provide a generalized low-rank matrix modeling framework to exploit the network side information, which helps to efficiently optimize across the communication, computation, and storage resources. Unfortunately, the rank function is nonconvex and is thus not computationally feasible. Furthermore, convex relaxation approaches are inapplicable for generalized low-rank optimization problems with poor structures in dense wireless networks. We will introduce a recent proposal of nonconvex paradigms by optimizing over the nonconvex rank constraints directly via Riemannian optimization and matrix factorization.
 
 
 . *Y. Shi*, B. Mishra, and W. Chen, “Topological interference management with user admission control via Riemannian optimization,” submitted to /IEEE Trans. Wireless Commun./, under revision. [http://128.84.21.199/abs/1607.07252 \[paper\]]
 . *Y. Shi*, J. Zhang, and K. B. Letaief, “Low-rank matrix completion for topological interference management by Riemannian pursuit,” /IEEE Trans. Wireless Commun./, vol. 15, no. 7, Jul. 2016. [papers/Journal/lrmctim_twc16.pdf \[paper\]]
-
+~~~
 
 
 == Large-Scale Convex and Nonconvex Optimization: Algorithms and Analysis
-We shall present some new trends in optimization algorithms for solving the generalized sparse and low-rank optimization problems in dense wireless networks. Basically, numerical optimization algorithms can be classified in terms of first versus second order methods, depending on whether they use only gradient-based information versus calculations of both the first and second derivatives. The convergence rates of second-order methods are usually faster with the caveat that each iteration is more expensive. In general, there is a trade-off between the per-iteration computation cost versus the total number of iterations, though first-order methods often scale better to large-scale optimization problems. While optimization problems in communication systems are typically solved in the convex paradigm with the second-order methods, thanks to the ease of use of the CVX toolbox, we have observed the necessity of the first-order methods and the importance of the nonconvex paradigm. We develop and analyse the large-scale convex and nonconvex optimization algorithms by developing and leveraging the tools from the operator splitting theory, random matrix theory, learning theory, convex geometry and differential geometry.  
+~~~
+{}{img_left}{figure/manifold.pdf}{alt text}{WIDTHpx}{200px}
+Numerical optimization algorithms can be classified in terms of first versus second order methods, depending on whether they use only gradient-based information versus calculations of both the first and second derivatives. The convergence rates of second-order methods are usually faster with the caveat that each iteration is more expensive. In general, there is a trade-off between the per-iteration computation cost versus the total number of iterations, though first-order methods often scale better to large-scale optimization problems. While optimization problems in communication systems are typically solved in the convex paradigm with the second-order methods, thanks to the ease of use of the CVX toolbox, we have observed the necessity of the first-order methods and the importance of the nonconvex paradigm. We develop and analyse the large-scale convex and nonconvex optimization algorithms by developing and leveraging the tools from the operator splitting theory, random matrix theory, learning theory, convex geometry and differential geometry. 
 
 . *Y. Shi*, J. Zhang, W. Chen, and K. B. Letaief, “Enhanced group sparse beamforming for dense green Cloud-RAN: A random matrix approach,” submitted to /IEEE Trans. Wireless Commun./, under revision.
 . *Y. Shi*, J. Zhang, B. O’Donoghue, and K. B. Letaief, “Large-scale convex optimization for dense wireless cooperative networks,” /IEEE Trans. Signal Process./, vol. 63, no. 18, pp. 4729-4743, Sept. 2015. [papers/Journal/largecvx_tsp15.pdf \[paper\]][https://github.com/SHIYUANMING/large-scale-convex-optimization \[codes\]] [http://signalprocessingsociety.org/get-involved/awards-submit-award-nomination (*The 2016 IEEE Signal Processing Society Young Author Best Paper Award*)]
-
+~~~
 
 
 
