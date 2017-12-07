@@ -8,8 +8,8 @@
 - [http://shiyuanming.github.io/ Yuanming Shi], ShanghaiTech University, Shanghai, China.
 
 *Tutorial Materials:*
-- Slides [slides/Globecom2017/Models.pdf \[Part I\]], generalized sparse and low-rank models
-- Slides [slides/Globecom2017/Algorithms.pdf \[Part II\]], algorithms, geometry and theory
+- Slides [papers/Journal/Models.pdf \[Part I\]], generalized sparse and low-rank models
+- Slides [papers/Journal/Algorithms.pdf \[Part II\]], algorithms, geometry and theory
 
 == Summary
 As mobile data traffic keeps growing at an exponential rate, and mobile applications pose more and more stringent and diverse requirements, wireless networks are facing unprecedented pressures. To further evolve wireless networks and maintain their competitiveness, network densification stands out as a promising approach. By deploying more access points, possibly with different capabilities, we can not only increase network capacity, but also improve network energy efficiency, enable low-latency mobile applications, and provide access for massive mobile devices. However, this will also bring formidable challenges to network optimization and resource allocation, given the highly complex network topology, the massive amount of required side information, and the high computational requirement. Typical design problems will be nonconvex in nature, and of enormously large scales. Thus disruptive techniques will be needed to fully exploit the benefits of dense wireless networks. The aim of this tutorial is to present recent advances in sparse and low-rank techniques for optimizing dense wireless networks, with a comprehensive coverage including modeling, algorithm design, and theoretical analysis. Through typical examples, the powerfulness of this set of tools will be demonstrated, and their abilities in solving key design problems in dense wireless networks will be highlighted.
