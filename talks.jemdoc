@@ -1,10 +1,13 @@
 # jemdoc: menu{MENU}{talks.html}, showsource
 = TALKS
 
-== Tutorials
+== Invited Talks
 
-. [sparserank.html ``Sparse and Low-Rank Optimization for Dense Wireless Networks: Models, Algorithms and Theory”]
-.. Tutorial,  IEEE Global Communications Conference (GLOBECOM), Singapore, December 2017.
+. [sparserank.html Sparse and low-rank optimization for dense wireless networks: models, algorithms and theory]
+.. [http://globecom2017.ieee-globecom.org IEEE Global Communications Conference (GLOBECOM)], Tutorial, Singapore, Dec. 2017.
+. [slides/17SKKU_Geometry.pdf Geometry and statistics in high-dimensional structured optimization]
+.. [https://sites.google.com/view/2017-wbdo International Workshop on Big Data and Optimization], Sungkyunkwan University, Suwon, Korea, Dec. 2017.
+
 
 
 

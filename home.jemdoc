@@ -19,9 +19,11 @@ I work in optimization theory and algorithms, deep and machine learning, high-di
 
 == News
 
-- [sparserank.html Globecom Tutorial]: Jun and I will give a tutorial "Sparse and Low-Rank Optimization for Dense Wireless Networks: Models, Algorithms and Theory" at Globecom 2017 this December in Singapore.
+- Dec. 2017, [http://globecom2017.ieee-globecom.org IEEE GLOBECOM Tutorial]: "Sparse and Low-Rank Optimization for Dense Wireless Networks: Models, Algorithms and Theory". [sparserank.html \[slides\]]
 
-- Dec. 2016, my [http://ieeexplore.ieee.org/document/7120191/ paper] on Large-Scale Convex Optimization won [http://signalprocessingsociety.org/get-involved/awards-submit-award-nomination *The 2016 IEEE Signal Processing Society Young Author Best Paper Award*], co-authored with Jun Zhang, Brendan O’Donoghue, and Khaled B. Letaief.
+- Oct. 2016-Feb. 2017, visit University of California, Berkeley, hosted by [https://people.eecs.berkeley.edu/~wainwrig/ Prof. Martin J. Wainwright].
 
-- Apr. 2016, my [http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6786060&newsearch=true&queryText=group%20sparse%20beamforming%20for%20green%20cloud-ran&fname=&lname=&title=&volume=&issue=&spage= paper] on Cloud-RAN won [http://www.comsoc.org/about/memberprograms/comsoc-awards/marconi *The 2016 Marconi Prize Paper Award in Wireless Communications*], joint work with Jun Zhang and Khaled B. Letaief.
+- Dec. 2016, my [papers/Journal/largecvx_tsp15.pdf paper] on Large-Scale Convex Optimization won [http://signalprocessingsociety.org/get-involved/awards-submit-award-nomination *The 2016 IEEE Signal Processing Society Young Author Best Paper Award*], co-authored with Jun Zhang, Brendan O’Donoghue, and Khaled B. Letaief.
+
+- Apr. 2016, my [papers/Journal/gsbf_twc14.pdf paper] on Cloud-RAN won [http://www.comsoc.org/about/memberprograms/comsoc-awards/marconi *The 2016 Marconi Prize Paper Award in Wireless Communications*], joint work with Jun Zhang and Khaled B. Letaief.
 

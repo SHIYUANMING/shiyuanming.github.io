@@ -2,14 +2,33 @@
 = RESEARCH 
 /*“We have not succeeded in answering all our problems. The answers we have found only serve to raise a whole set of new questions. In some ways we feel we are as confused as ever, but we believe we are confused on a higher level and about more important things.”*/ — posted outside the mathematics reading room, Tromsø University
 
-My research focuses on optimization, statistics, computation and communication for network science, data science, and machine learning, including: 
+My research focuses on optimization, statistics, learning for data science, network science, and information science, including: 
 
 - Mobile AI and intelligent IoT
-- Dense communication networks
+- Wireless communication networks
 - Big data processing and analysis
 - Deep and machine learning
 - Optimization theory and algorithms
 - High-dimensional probability and statistics
+
+
+== Resources
+. Optimization
+.. [http://stanford.edu/~boyd/cvxbook/ /Convex Optimization/], by S. Boyd and L. Vandenberghe, Cambridge University Press, 2003. [http://ee364a.stanford.edu \[EE364a\]][http://stanford.edu/class/ee364b/ \[EE364b\]]
+.. [http://users.iems.northwestern.edu/~nocedal/book/ /Numerical Optimization/], by J. Nocedal and S. Wright, Springer-Verlag, 2006.
+.. [http://www.athenasc.com/nonlinbook.html /Nonlinear Programming/],  by D. Bertsekas, Athena Scientific. 2016.
+. Statistics
+.. [https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html /High-Dimensional Probability: An Introduction with Applications in Data Science/], by Roman Vershynin, Cambridge University Press, 2018.
+.. [https://people.eecs.berkeley.edu/~wainwrig/ /High-Dimensional Statistics: A Non-Asymptotic Viewpoint/], by Martin Wainwright, 2017.
+.. [http://www.cambridge.org/catalogue/catalogue.asp?isbn=0521784506 /Asymptotic Statistics/], by A. W. van der Vaart, Cambridge University Press, 2012.
+. Learning
+.. [http://www.deeplearningbook.org /Deep Learning/], by I. Goodfellow, Y. Bengio and A. Courville, MIT Press, 2016.
+.. [https://web.stanford.edu/~hastie/ElemStatLearn/ /The Elements of Statistical Learning: Data Mining, Inference, and Prediction/], by T. Hastie, R. Tibshirani, and J. Friedman, Springer, 2009.
+.. [https://www.microsoft.com/en-us/research/people/cmbishop/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fcmbishop%2F /Pattern Recognition and Machine Learning/], by C. M. Bishop, Springer, 2007.
+. Information
+.. [http://stanford.edu/~dntse/wireless_book.html /Fundamentals of Wireless Communication/], by David Tse and Pramod Viswanath, Cambridge University Press, 2005.
+.. [https://www.wiley.com/en-us/Elements+of+Information+Theory%2C+2nd+Edition-p-9780471241959 /Elements of Information Theory/], by Thomas M. Cover and Joy A. Thomas, Wiley, 2006.
+
 
 == Principal Collaborators
 
