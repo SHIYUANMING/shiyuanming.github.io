@@ -13,8 +13,8 @@ The focus of this course is theory and algorithms for convex optimization (thoug
 - [http://users.iems.northwestern.edu/~nocedal/book/ /Numerical Optimization/], by J. Nocedal and S. Wright, Springer-Verlag, 2006.
 - [http://www.athenasc.com/nonlinbook.html /Nonlinear Programming/],  by D. Bertsekas, Athena Scientific. 2016.
 - [http://bookstore.siam.org/mo25/ /First-order Methods in Optimization/], by A. Beck, MOS-SIAM Series on Optimization, 2017.
-- [http://www.nowpublishers.com/article/Details/MAL-050 /Convex Optimization: Algorithms and Complexity/], by S. Bubeck, Foundations and Trends in Optimization, 2015.
-- [http://www.nowpublishers.com/article/Details/MAL-058 /Non-convex Optimization for Machine Learning/], by P. Jain and P. Kark, Foundations and Trends in Optimization, 2017.
+- [http://www.nowpublishers.com/article/Details/MAL-050 /Convex Optimization: Algorithms and Complexity/], by S. Bubeck, Foundations and Trends in Machine Learning, 2015.
+- [http://www.nowpublishers.com/article/Details/MAL-058 /Non-convex Optimization for Machine Learning/], by P. Jain and P. Kark, Foundations and Trends in Machine Learning, 2017.
 
 == Lectures
 . *Theoretical foundations*
