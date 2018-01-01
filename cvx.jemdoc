@@ -1,0 +1,49 @@
+# jemdoc: menu{MENU}{teaching.html}, showsource
+= SI251: Convex Optimization
+[http://shiyuanming.github.io Yuanming Shi], ShanghaiTech University, Spring 2018
+
+== Description
+The focus of this course is theory and algorithms for convex optimization (though we also may touch upon nonconvex optimization problems at some points), with particular emphasis on problems that arise in data science and machine learning. Our goal is to gain a fundamental understanding of convex analysis, modeling and approximation, in addition with convergence rates, complexity and scaling behavior of various algorithms, including both first-order and second-order methods, as well as both deterministic and randomized algorithms. Upon completing the course, students should have the capability of unveiling the hidden convexity of problems by appropriate manipulations, characterizing the solutions either analytically or algorithmically, designing and implementing efficient algorithms, followed by statistical analysis.
+
+== Textbooks and Optional References
+*Textbooks:*
+- [http://stanford.edu/~boyd/cvxbook/ /Convex Optimization/], by S. Boyd and L. Vandenberghe, Cambridge University Press, 2003.
+
+*References:*
+- [http://users.iems.northwestern.edu/~nocedal/book/ /Numerical Optimization/], by J. Nocedal and S. Wright, Springer-Verlag, 2006.
+- [http://www.athenasc.com/nonlinbook.html /Nonlinear Programming/],  by D. Bertsekas, Athena Scientific. 2016.
+- [http://bookstore.siam.org/mo25/ /First-order Methods in Optimization/], by A. Beck, MOS-SIAM Series on Optimization, 2017.
+- [http://www.nowpublishers.com/article/Details/MAL-050 /Convex Optimization: Algorithms and Complexity/], by S. Bubeck, Foundations and Trends in Optimization, 2015.
+- [http://www.nowpublishers.com/article/Details/MAL-058 /Non-convex Optimization for Machine Learning/], by P. Jain and P. Kark, Foundations and Trends in Optimization, 2017.
+
+== Lectures
+. *Theoretical foundations*
+.. Convex sets
+.. Convex functions
+.. Convex optimization problems
+.. Lagrange duality and KKT conditions
+.. Disciplined convex programming
+. *First-order methods*
+.. Gradient methods
+.. Subgradient methods
+.. Proximal methods
+. *Second-order methods*
+.. Newton Method
+.. Interior-point methods
+.. Quasi-Newton methods
+. *Stochastic methods*
+.. Stochastic gradient methods
+.. Stochastic Newton methods
+.. Randomized sketching methods
+. *Applications in data science*
+.. Convex geometry: phase transitions
+.. Global geometry: saddle point characterizations
+.. Local geometry: basin of attraction
+
+
+
+
+
+
+
+
