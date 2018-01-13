@@ -1,0 +1,46 @@
+# jemdoc: menu{MENU}{teaching.html}, showsource
+= SI151: Convex Optimization
+[http://shiyuanming.github.io Yuanming Shi], ShanghaiTech University, Spring 2018
+
+== Description
+This course provides a broad introduction to machine learning, statistical learning and deep learning, with particular emphasis on learning models, optimization algorithms and statistical analysis. Topics include: supervised learning (e.g., generative learning, parametric and nonparametric learning, regression, classification, support vector machines, neural networks); unsupervised learning (e.g., clustering, dimensionality reduction, kernel methods, density estimation); statistical learning theory (bias and variance tradeoffs; VC theory; large margins). This course will also introduce optimization methods (e.g., gradient methods, proximal methods, quasi-Newton methods, stochastic and randomized algorithms) that are suitable for large-scale problems arising in machine learning applications.
+
+== Textbooks and Optional References
+*Textbooks:*
+- [https://work.caltech.edu/telecourse.html /Learning from Data/], by Yaser S. Abu-Mostafa, Malik Magdon-Ismail, and Hsuan-Tien Lin, AMLBook New York, 2012.
+- [http://stanford.edu/~boyd/cvxbook/ /Convex Optimization/], by S. Boyd and L. Vandenberghe, Cambridge University Press, 2003.
+
+*References:*
+- [https://www.microsoft.com/en-us/research/people/cmbishop/?from=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fcmbishop%2F /Pattern Recognition and Machine Learning/], by C. M. Bishop, Springer, 2007. 
+- [https://web.stanford.edu/~hastie/ElemStatLearn/ /The Elements of Statistical Learning: Data Mining, Inference, and Prediction/], by T. Hastie, R. Tibshirani, and J. Friedman, Springer, 2009.
+- [http://www.deeplearningbook.org /Deep Learning/], by I. Goodfellow, Y. Bengio and A. Courville, MIT Press, 2016. 
+- [http://www.nowpublishers.com/article/Details/MAL-050 /Convex Optimization: Algorithms and Complexity/], by S. Bubeck, Foundations and Trends in Machine Learning, 2015.
+- [http://bookstore.siam.org/mo25/ /First-order Methods in Optimization/], by A. Beck, MOS-SIAM Series on Optimization, 2017.
+- [http://www.nowpublishers.com/article/Details/MAL-058 /Non-convex Optimization for Machine Learning/], by P. Jain and P. Kark, Foundations and Trends in Machine Learning, 2017.
+
+== Lectures
+. *Foundations*
+.. The learning problem
+.. Training versus testing
+.. The linear model
+.. Overfitting
+.. Three learning principles
+. *Techniques*
+.. Similarity-based methods
+.. Neural networks
+.. Support vector machines
+.. Learning aides
+. *Optimization*
+.. Convex and nonconvex optimization
+.. First-order optimization algorithms
+.. Second-order optimization algorithms
+.. Stochastic optimization algorithms
+
+
+
+
+
+
+
+
+
