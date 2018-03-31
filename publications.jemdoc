@@ -30,6 +30,9 @@
 . *Y. Shi*, J. Zhang, and K. B. Letaief, “Group sparse beamforming for green Cloud-RAN,” /IEEE Trans. Wireless Commun./, vol. 13, no. 5, pp. 2809-2823, May 2014. [papers/Journal/gsbf_twc14.pdf \[paper\]] [https://github.com/SHIYUANMING/large-scale-convex-optimization \[codes\]] [http://www.comsoc.org/about/memberprograms/comsoc-awards/marconi (*The 2016 Marconi Prize Paper Award*)]
 
 == Conference Papers
+. J. Dong, and *Y. Shi*, “Nonconvex demixing from bilinear measurements,” in /Proc. IEEE Int. Sump. Inform. Theory (ISIT)/, Colorado, USA, Jun. 2018.
+. X. Song, H. Choi, and *Y. Shi*, “Permuted linear model for header-free communication via symmetric polynomials,” in /Proc. IEEE Int. Symp. Inform. Theory (ISIT)/, Colorado, USA, Jun. 2018.
+. H. Choi, Y. Shen, and *Y. Shi*, “Comparing massive networks via moment matrices,” in /Proc. IEEE Int. Symp. Inform. Theory (ISIT)/, Colorado, USA, Jun. 2018.
 . K. Yang, *Y. Shi*, and Z. Ding, “Low-rank optimization for data shuffling in wireless distributed computing,” in /Proc. IEEE Int. Conf. Acoust. Speech Signal Process. (ICASSP)/, Alberta, Canada, Apr. 2018.
 . J. Dong, K. Yang, and *Y. Shi*, “Blind demixing for low-latency communication,” in /Proc. IEEE Wireless Commun. Networking Conf. (WCNC)/, Barcelona, Spain, Apr. 2018.
 . J. Dong, K. Yang, and *Y. Shi*, “Ranking from crowdsourced pairwise comparisons via smoothed matrix manifold optimization,” in /ICDM Workshops on Data-driven Discovery of Models (D3M)/, New Orleans, Louisiana, USA, Nov. 2017.
