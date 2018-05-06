@@ -30,6 +30,7 @@
 . *Y. Shi*, J. Zhang, and K. B. Letaief, “Group sparse beamforming for green Cloud-RAN,” /IEEE Trans. Wireless Commun./, vol. 13, no. 5, pp. 2809-2823, May 2014. [papers/Journal/gsbf_twc14.pdf \[paper\]] [https://github.com/SHIYUANMING/large-scale-convex-optimization \[codes\]] [http://www.comsoc.org/about/memberprograms/comsoc-awards/marconi (*The 2016 Marconi Prize Paper Award*)]
 
 == Conference Papers
+. F. Zhang, Q. Wu, H. Wang, and *Y. Shi*, “Topological interference alignment via generalized low-rank optimization with sequential convex approximations,” in /Proc. IEEE Int. Workshop Signal Process. Adv. Wireless Commun. (SPAWC)/, Kalamata, Greece, Jun. 2018.
 . J. Dong, and *Y. Shi*, “Nonconvex demixing from bilinear measurements,” in /Proc. IEEE Int. Sump. Inform. Theory (ISIT)/, Colorado, USA, Jun. 2018.
 . X. Song, H. Choi, and *Y. Shi*, “Permuted linear model for header-free communication via symmetric polynomials,” in /Proc. IEEE Int. Symp. Inform. Theory (ISIT)/, Colorado, USA, Jun. 2018.
 . H. Choi, Y. Shen, and *Y. Shi*, “Comparing massive networks via moment matrices,” in /Proc. IEEE Int. Symp. Inform. Theory (ISIT)/, Colorado, USA, Jun. 2018.
