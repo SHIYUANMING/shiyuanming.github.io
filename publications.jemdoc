@@ -30,6 +30,9 @@
 . *Y. Shi*, J. Zhang, and K. B. Letaief, “Group sparse beamforming for green Cloud-RAN,” /IEEE Trans. Wireless Commun./, vol. 13, no. 5, pp. 2809-2823, May 2014. [papers/Journal/gsbf_twc14.pdf \[paper\]] [https://github.com/SHIYUANMING/large-scale-convex-optimization \[codes\]] [http://www.comsoc.org/about/memberprograms/comsoc-awards/marconi (*The 2016 Marconi Prize Paper Award*)]
 
 == Conference Papers
+. T. Jiang and *Y. Shi*, “Phase transitions of massive device connectivity via convex geometry,” in /Pro. IEEE Veh. Technol. Conf. (VTC)/, Chicago, USA, Aug. 2018.
+. Q. Wu, F. Zhang, H. Wang, and *Y. Shi*, “Generalized low-rank matrix completion via nonconvex Schatten /p/-norm minimization,” in /Pro. IEEE Veh. Technol. Conf. (VTC)/, Chicago, USA, Aug. 2018.
+. F. Zhang, Q. Wu, H. Wang, and *Y. Shi*, “/L2/-Box optimization for green Cloud-RAN via network adaptation,” in /Pro. IEEE Veh. Technol. Conf. (VTC)/, Chicago, USA, Aug. 2018.
 . F. Zhang, Q. Wu, H. Wang, and *Y. Shi*, “Topological interference alignment via generalized low-rank optimization with sequential convex approximations,” in /Proc. IEEE Int. Workshop Signal Process. Adv. Wireless Commun. (SPAWC)/, Kalamata, Greece, Jun. 2018.
 . J. Dong, and *Y. Shi*, “Nonconvex demixing from bilinear measurements,” in /Proc. IEEE Int. Sump. Inform. Theory (ISIT)/, Colorado, USA, Jun. 2018.
 . X. Song, H. Choi, and *Y. Shi*, “Permuted linear model for header-free communication via symmetric polynomials,” in /Proc. IEEE Int. Symp. Inform. Theory (ISIT)/, Colorado, USA, Jun. 2018.
@@ -46,7 +49,7 @@
 . K. Yang, *Y. Shi*, and Z. Ding, “Low-rank matrix completion for mobile edge caching in Fog-RAN via Riemannian optimization,” in /Proc. IEEE Global Communications Conf. (GLOBECOM)/, Washington, DC, Dec. 2016.
 . *Y. Shi*, J. Zhang, and K. B. Letaief, “Statistical group sparse beamforming for green Cloud-RAN via large system analysis,” in /Proc. IEEE Int. Symp. Inform. Theory (ISIT)/, Barcelona, Spain, Jul. 2016.
 . J. Cheng, *Y. Shi*, B. Bai, and W. Chen, ‘Computation offloading in Cloud-RAN based mobile cloud computing system,” in /Proc. IEEE Int. Conf. Commun. (ICC)/, Kuala Lumpur, Malaysia, May 2016.
-. *Y. Shi*, J. Zhang, and K. B. Letaief, “Low-rank matrix completion via Riemannian pursuit for topo- logical interference management,” in /Proc. IEEE Int. Symp. Inform. Theory (ISIT)/, Hong Kong, Jun. 2015.
+. *Y. Shi*, J. Zhang, and K. B. Letaief, “Low-rank matrix completion via Riemannian pursuit for topological interference management,” in /Proc. IEEE Int. Symp. Inform. Theory (ISIT)/, Hong Kong, Jun. 2015.
 . J. Cheng, *Y. Shi*, B. Bai, W. Chen, J. Zhang, and K. B. Letaief, “Group sparse beamforming for multicast green Cloud-RAN via parallel semidefinite programming,” in /Proc. IEEE Int. Conf. Commun. (ICC)/, London, UK, Jun. 2015.
 . *Y. Shi*, J. Zhang, and K. B. Letaief, “Scalable coordinated beamforming for dense wireless cooperative networks,” in /Proc. IEEE Global Communications Conf. (GLOBECOM)/, Austin, TX, Dec. 2014.
 . *Y. Shi*, J. Zhang, and K. B. Letaief, “CSI overhead reduction with stochastic beamforming for cloud radio access networks,” in /Proc. IEEE Int. Conf. Commun. (ICC)/, Sydney, Australia, Jun. 2014.
