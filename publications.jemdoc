@@ -2,7 +2,10 @@
 = PUBLICATIONS
 /*“After writing a story I was always empty and both sad and happy.”*/ — by Ernest Hemingway, “A Moveable Feast"
 
+
 == In the Pipeline…
+. K. Yang, *Y. Shi*, and Z. Ding, “Data shuffling in wireless distributed computing via low-rank optimization,” /submitted/.
+. H. Choi, H. Lee, Y. Shen, and *Y. Shi*, “Comparing large-scale graphs based on quantum probability theory,” /submitted/.
 . T. Jiang and *Y. Shi*, “Phase transitions of massive IoT connectivity via conic integral geometry,” /submitted/.
 . J. Dong and *Y. Shi*, “Nonconvex demixing from bilinear measurements,” /submitted/.
 . K. Yang, *Y. Shi*, and Z. Ding, “Generalized low-rank optimization for topological cooperation in ultra-dense networks,” /submitted/.
@@ -13,6 +16,7 @@
 
 
 == Book Chapters
+. *Y. Shi*, K. Yang, and Y. Yang, “Generalized Low-Rank Optimization for Ultra-Dense Fog-RANs,” in /Ultra Dense Networks: Principles and Technologies/, Cambridge University Press, 2019.
 . *Y. Shi*, J. Zhang, K. B. Letaief, B. Bai and W. Chen, “Large-Scale Convex Optimization for C-RANs,” in /Cloud Radio Access Networks: Principles, Technologies, and Applications/, Cambridge University Press, 2017.
 
 == Journal Articles
@@ -30,6 +34,9 @@
 . *Y. Shi*, J. Zhang, and K. B. Letaief, “Group sparse beamforming for green Cloud-RAN,” /IEEE Trans. Wireless Commun./, vol. 13, no. 5, pp. 2809-2823, May 2014. [papers/Journal/gsbf_twc14.pdf \[paper\]] [https://github.com/SHIYUANMING/large-scale-convex-optimization \[codes\]] [http://www.comsoc.org/about/memberprograms/comsoc-awards/marconi (*The 2016 Marconi Prize Paper Award*)]
 
 == Conference Papers
+. Y. Shen, *Y. Shi*, J. Zhang, and K. B. Letaief, “Scalable network adaption for green Cloud-RANs: An imitation learning approach,” submitted to /Proc. IEEE Global Conf. Signal and Inf. Process. (GlobalSIP)/, Anaheim, CA, Nov. 2018.
+. H. Choi, X. Song, and *Y. Shi*, “Randomized method for estimating the von Neumann entropy of large-scale density matrices,” submitted to /Proc. IEEE Global Conf. Signal and Inf. Process. (GlobalSIP)/, Anaheim, CA, Nov. 2018.
+. T. Jiang and *Y. Shi*, “Sparse and low-rank optimization for pliable index coding,” submitted to /Proc. IEEE Global Conf. Signal and Inf. Process. (GlobalSIP)/, Anaheim, CA, Nov. 2018.
 . T. Jiang and *Y. Shi*, “Phase transitions of massive device connectivity via convex geometry,” in /Pro. IEEE Veh. Technol. Conf. (VTC)/, Chicago, USA, Aug. 2018.
 . Q. Wu, F. Zhang, H. Wang, and *Y. Shi*, “Generalized low-rank matrix completion via nonconvex Schatten /p/-norm minimization,” in /Pro. IEEE Veh. Technol. Conf. (VTC)/, Chicago, USA, Aug. 2018.
 . F. Zhang, Q. Wu, H. Wang, and *Y. Shi*, “/L2/-Box optimization for green Cloud-RAN via network adaptation,” in /Pro. IEEE Veh. Technol. Conf. (VTC)/, Chicago, USA, Aug. 2018.
