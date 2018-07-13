@@ -4,6 +4,7 @@
 
 
 == Large-Scale Machine Learning
+/*Intelligent, secure and low-latency decisions for data science and network science.*/
 . K. Yang, *Y. Shi*, and Z. Ding, “Data shuffling in wireless distributed computing via low-rank optimization,” /submitted/. \[ICASSP 2018\] [slides/18icassp_distcomp.pdf \[poster\]]
 . Y. Shen, *Y. Shi*, J. Zhang, and K. B. Letaief, “Learning to cooperate in DenseNets,” /submitted/. \[GlobalSIP 2018\]
 . T. Jiang and *Y. Shi*, “Sparse and low-rank optimization for data shuffling in federated learning,” /submitted/. \[GlobalSIP 2018\]
@@ -12,6 +13,7 @@
 
 
 == High-Dimensional Data Analysis
+/*Geometry, algorithms and statistics of high-dimensional data.*/
 . H. Choi, H. Hu, X. Song, and *Y. Shi*, “Randomized method for estimating the von Neumann entropy of large-scale density matrices,” /submitted/. \[GlobalSIP 2018\]
 . H. Choi, H. Lee, Y. Shen, and *Y. Shi*, “Comparing large-scale graphs based on quantum probability theory,” /submitted/. [papers/Conference/18isit_graph.pdf \[ISIT 2018\]]
 . T. Jiang, *Y. Shi*, J. Zhang, and K. B. Letaief, “Joint activity detection and channel estimation for IoT networks: phase transition and computation-estimation tradeoff,” /submitted/. 
@@ -22,6 +24,7 @@
 . X. Liu, *Y. Shi*, J. Zhang, and K. B. Letaief, “Massive CSI acquisition for dense Cloud-RANs with spatial-temporal dynamics,” /IEEE Trans. Wireless Commun./, vol. 17, no. 4, pp. 2557-2570, Apr. 2018. [papers/Journal/massivecsi_twc18.pdf \[paper\]]
 
 == Scalable Structured Optimization
+/*Sparse, low-rank and manifold structures in network optimization and data processing.*/
 . K. Yang, *Y. Shi*, and Z. Ding, “Generalized low-rank optimization for topological cooperation in ultra-dense networks,” submitted to /IEEE Trans. Wireless Commun./, under second round revision. [papers/Conference/17globalsip_fog.pdf \[GlobalSIP 2017\]]
 . *Y. Shi*, J. Zhang, W. Chen, and K. B. Letaief, “Generalized sparse and low-rank optimization for ultra-dense networks,” /IEEE Commun. Mag./, vol. 56, no. 6, pp. 42-48, Jun., 2018. [papers/Journal/sparselowrank_commag18.pdf \[paper\]]
 . *Y. Shi*, J. Zhang, W. Chen, and K. B. Letaief, “Enhanced group sparse beamforming for dense green Cloud-RAN: A random matrix approach,” /IEEE Trans. Wireless Commun./, vol. 17, no. 4, pp. 2511-2524, Apr. 2018. [papers/Journal/rmt_twc18.pdf \[paper\]] [https://github.com/SHIYUANMING/RMT-Beamforming-TWC18 \[codes\]]
