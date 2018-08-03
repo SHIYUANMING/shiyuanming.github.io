@@ -11,7 +11,6 @@
 . J. Dong, K. Yang, and *Y. Shi*, “Ranking from crowdsourced pairwise comparisons via smoothed Riemannian optimization,” /submitted/.
 . K. Yang, *Y. Shi*, and Z. Ding, “Generalized low-rank optimization for topological cooperation in ultra-dense networks,” submitted to /IEEE Trans. Wireless Commun./, under second round revision.
 . J. Dong, K. Yang, and *Y. Shi*, “Blind demixing for low-latency communication,” submitted to /IEEE Trans. Wireless Commun./, under second round version.
-. J. Dong and *Y. Shi*, “Nonconvex demixing from bilinear measurements,” submitted to /IEEE Trans. Signal Process./, under second round revision.
 
 
 
@@ -20,6 +19,7 @@
 . *Y. Shi*, J. Zhang, K. B. Letaief, B. Bai and W. Chen, “Large-Scale Convex Optimization for C-RANs,” in /Cloud Radio Access Networks: Principles, Technologies, and Applications/, Cambridge University Press, 2017.
 
 == Journal Articles
+. J. Dong and *Y. Shi*, “Nonconvex demixing from bilinear measurements,” /IEEE Trans. Signal Process./, to appear.
 . *Y. Shi*, J. Zhang, W. Chen, and K. B. Letaief, “Generalized sparse and low-rank optimization for ultra-dense networks,” /IEEE Commun. Mag./, vol. 56, no. 6, pp. 42-48, Jun., 2018. [papers/Journal/sparselowrank_commag18.pdf \[paper\]]
 . *Y. Shi*, J. Zhang, W. Chen, and K. B. Letaief, “Enhanced group sparse beamforming for dense green Cloud-RAN: A random matrix approach,” /IEEE Trans. Wireless Commun./, vol. 17, no. 4, pp. 2511-2524, Apr. 2018. [papers/Journal/rmt_twc18.pdf \[paper\]] [https://github.com/SHIYUANMING/RMT-Beamforming-TWC18 \[codes\]]
 . X. Liu, *Y. Shi*, J. Zhang, and K. B. Letaief, “Massive CSI acquisition for dense Cloud-RANs with spatial-temporal dynamics,” /IEEE Trans. Wireless Commun./, vol. 17, no. 4, pp. 2557-2570, Apr. 2018. [papers/Journal/massivecsi_twc18.pdf \[paper\]]
