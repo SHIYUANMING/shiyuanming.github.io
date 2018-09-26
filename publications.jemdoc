@@ -2,7 +2,9 @@
 = PUBLICATIONS
 /*“After writing a story I was always empty and both sad and happy.”*/ — by Ernest Hemingway, “A Moveable Feast"
 
-== Data Analysis
+== High-Dimensional Data Analysis
+*``statistics and algorithms of big data”*
+
 /*Journal Articles*/
 . H. Choi, X. Song, and *Y. Shi*, “Randomized method for estimating the von Neumann entropy of large-scale density matrices,” to be /submitted/. [papers/Conference/18globalsip_entropy.pdf \[GlobalSIP version\]]
 . H. Choi, H. Lee, Y. Shen, and *Y. Shi*, “Comparing large-scale graphs based on quantum probability theory,” /submitted/. [https://arxiv.org/abs/1807.00252 \[paper\]] 
@@ -12,20 +14,26 @@
 
 
 
-== Mobile AI
+== Mobile Edge Artificial Intelligence
+*``wireless for AI, AI for wireless”*
+
 /*Journal Articles*/
 . Y. Shen, *Y. Shi*, J. Zhang, and K. B. Letaief, “Scalable network adaption for green Cloud-RANs: An imitation learning approach,” to be /submitted/. [https://arxiv.org/abs/1809.06314 \[GlobalSIP version\]]
 . K. Yang, *Y. Shi*, and Z. Ding, “Data shuffling in wireless distributed computing via low-rank optimization,” /submitted/. [https://arxiv.org/abs/1809.07463 \[paper\]]
 
 
-== Intelligent IoT
+== Intelligent Internet of Things
+*``massive low-latency IoT communication and computation: structured linear and bilinear models”*
+
 /*Journal Articles*/
 . X. Song, H. Choi, and *Y. Shi*, “Permuted linear model for header-free communication via symmetric polynomials,” to be /submitted/. [papers/Conference/18isit_permuted.pdf \[ISIT version\]]
 . T. Jiang, *Y. Shi*, J. Zhang, and K. B. Letaief, “Joint activity detection and channel estimation for IoT networks: phase transition and computation-estimation tradeoff,” submitted to /IEEE Internet of Things J./, under second round revision. 
 . J. Dong, K. Yang, and *Y. Shi*, “Blind demixing for low-latency communication,” submitted to /IEEE Trans. Wireless Commun./, under second round version. [https://arxiv.org/abs/1801.02158 \[paper\]]
 
 
-== Dense Networks
+== Ultra-Dense Wireless Networks 
+*``sparse, low-rank, manifold and stochastic models and optimization”*
+
 /*Magazine Papers*/
 . *Y. Shi*, J. Zhang, W. Chen, and K. B. Letaief, “Generalized sparse and low-rank optimization for ultra-dense networks,” /IEEE Commun. Mag./, vol. 56, no. 6, pp. 42-48, Jun., 2018. [papers/Journal/sparselowrank_commag18.pdf \[paper\]] [slides/17Globecom_Models.pdf \[slides I\]] [slides/17Globecom_Algorithms.pdf \[slides II\]]
 . *Y. Shi*, J. Zhang, K. B. Letaief, B. Bai, and W. Chen, “Large-scale convex optimization for ultra-dense Cloud-RAN,” /IEEE Wireless Commun./, vol. 22, no. 3, pp. 84-91, Jun. 2015. [papers/Journal/cran_wcmag15.pdf \[paper\]]
