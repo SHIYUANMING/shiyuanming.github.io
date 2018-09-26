@@ -3,7 +3,7 @@
 /*“After writing a story I was always empty and both sad and happy.”*/ — by Ernest Hemingway, “A Moveable Feast"
 
 == High-Dimensional Data Analysis
-*``statistics and algorithms of big data”*
+*``Statistics and algorithms of big data”*
 
 /*Journal Articles*/
 . H. Choi, X. Song, and *Y. Shi*, “Randomized method for estimating the von Neumann entropy of large-scale density matrices,” to be /submitted/. [papers/Conference/18globalsip_entropy.pdf \[GlobalSIP version\]]
@@ -15,7 +15,7 @@
 
 
 == Mobile Edge Artificial Intelligence
-*``wireless for AI, AI for wireless”*
+*``Wireless for AI, AI for wireless”*
 
 /*Journal Articles*/
 . Y. Shen, *Y. Shi*, J. Zhang, and K. B. Letaief, “Scalable network adaption for green Cloud-RANs: An imitation learning approach,” to be /submitted/. [https://arxiv.org/abs/1809.06314 \[GlobalSIP version\]]
@@ -23,7 +23,7 @@
 
 
 == Intelligent Internet of Things
-*``massive low-latency IoT communication and computation: structured linear and bilinear models”*
+*``Structured linear and bilinear models”*
 
 /*Journal Articles*/
 . X. Song, H. Choi, and *Y. Shi*, “Permuted linear model for header-free communication via symmetric polynomials,” to be /submitted/. [papers/Conference/18isit_permuted.pdf \[ISIT version\]]
@@ -32,7 +32,7 @@
 
 
 == Ultra-Dense Wireless Networks 
-*``sparse, low-rank, manifold and stochastic models and optimization”*
+*``Sparse, low-rank, manifold and stochastic optimization”*
 
 /*Magazine Papers*/
 . *Y. Shi*, J. Zhang, W. Chen, and K. B. Letaief, “Generalized sparse and low-rank optimization for ultra-dense networks,” /IEEE Commun. Mag./, vol. 56, no. 6, pp. 42-48, Jun., 2018. [papers/Journal/sparselowrank_commag18.pdf \[paper\]] [slides/17Globecom_Models.pdf \[slides I\]] [slides/17Globecom_Algorithms.pdf \[slides II\]]
