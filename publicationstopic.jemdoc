@@ -20,12 +20,13 @@
 *``Distributed Learning, Wireless for AI, AI for Wireless”*
 
 /*Journal Articles*/
+. k. Yang, T. Jiang, *Y. Shi*, and Z. Ding, "Federated learning via over-the-air computation," /submitted/.
 . Y. Shen, *Y. Shi*, J. Zhang, and K. B. Letaief, "LORA: Learning to optimize for resource allocation in wireless networks with few training samples," /submitted/. [https://arxiv.org/abs/1812.07998 \[paper\]]
 . K. Yang, *Y. Shi*, and Z. Ding, “Data shuffling in wireless distributed computing via low-rank optimization,” /submitted/. [https://arxiv.org/abs/1809.07463 \[paper\]]
 
 
 == Intelligent Internet of Things
-*``Massive Connectivity, Over-the-Air Computation, Blind Demixing”*
+*``Massive Connectivity, Blind Demixing, Over-the-Air Computation”*
 
 /*Journal Articles*/
 . J. Dong, *Y. Shi*, and Z. Ding, “Blind over-the-air computation and data fusion via provable Wirtinger flow,” /submitted/. [https://arxiv.org/abs/1811.04644 \[paper\]]
@@ -43,6 +44,7 @@
 . *Y. Shi*, J. Zhang, K. B. Letaief, B. Bai, and W. Chen, “Large-scale convex optimization for ultra-dense Cloud-RAN,” /IEEE Wireless Commun./, vol. 22, no. 3, pp. 84-91, Jun. 2015. [papers/Journal/cran_wcmag15.pdf \[paper\]]
 
 /*Journal Articles*/
+. Y. Zhou, J. Li, *Y. Shi*, and V. W.S. Wang, “Flexible functional split design for downlink C-RAN with capacity-constrained fronthaul,” /submitted/.
 . K. Yang, *Y. Shi*, and Z. Ding, “Generalized low-rank optimization for topological cooperation in ultra-dense networks,” /IEEE Trans. Wireless Commun./ [https://arxiv.org/abs/1809.08537 \[paper\]]
 . X. Liu, *Y. Shi*, J. Zhang, and K. B. Letaief, “Massive CSI acquisition for dense Cloud-RANs with spatial-temporal dynamics,” /IEEE Trans. Wireless Commun./, vol. 17, no. 4, pp. 2557-2570, Apr. 2018. [papers/Journal/massivecsi_twc18.pdf \[paper\]]
 . *Y. Shi*, J. Zhang, W. Chen, and K. B. Letaief, “Enhanced group sparse beamforming for dense green Cloud-RAN: A random matrix approach,” /IEEE Trans. Wireless Commun./, vol. 17, no. 4, pp. 2511-2524, Apr. 2018. [papers/Journal/rmt_twc18.pdf \[paper\]] [https://github.com/SHIYUANMING/RMT-Beamforming-TWC18 \[codes\]]
