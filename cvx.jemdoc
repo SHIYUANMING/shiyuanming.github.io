@@ -38,7 +38,12 @@ The focus of this course is theory and algorithms for convex optimization (thoug
 .. Stochastic gradient methods
 .. Stochastic Newton methods
 .. Randomized sketching methods
-. *Applications in data science*
+. *Applications in financial engineering*
+.. Financial modeling
+.. Portfolio optimization
+.. Statistical arbitrage
+. *Applications in machine learning*
+.. Learning models: sparse, low-rank, bilinear, deep models
 .. Convex geometry: phase transitions
 .. Global geometry: saddle point characterizations
 .. Local geometry: basin of attraction
