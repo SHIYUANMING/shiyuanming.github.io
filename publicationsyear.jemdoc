@@ -41,6 +41,14 @@
 . *Y. Shi*, J. Zhang, and K. B. Letaief, “Group sparse beamforming for green Cloud-RAN,” /IEEE Trans. Wireless Commun./, vol. 13, no. 5, pp. 2809-2823, May 2014. [papers/Journal/gsbf_twc14.pdf \[paper\]] [https://github.com/SHIYUANMING/large-scale-convex-optimization \[codes\]] [http://www.comsoc.org/about/memberprograms/comsoc-awards/marconi (*The 2016 Marconi Prize Paper Award*)]
 
 == Conference Papers
+. L. Peng, X. Song, M. Tsakiris, H. Choi, L. Kneip, and *Y. Shi*, “Algebraically-initialized expectation maximization for header-free communication,” in /Proc. IEEE Int. Conf. Acoust. Speech Signal Process. (ICASSP)/, Brighton, UK, May 2019.
+. S. Xia and *Y. Shi*, “Learning shallow neural networks via provable gradient descent with random initialization,” in /Proc. IEEE Int. Conf. Acoust. Speech Signal Process. (ICASSP)/, Brighton, UK, May 2019.
+. J. Dong, *Y. Shi*, and Z. Ding, “Sparse blind demixing for low-latency signal recovery in massive IoT connectivity,” in /Proc. IEEE Int. Conf. Acoust. Speech Signal Process. (ICASSP)/, Brighton, UK, May 2019.
+. T. Jiang, X. Yang, *Y. Shi*, and H. Wang, “Layer-wise deep neural network pruning via iteratively reweighted optimization,” in /Proc. IEEE Int. Conf. Acoust. Speech Signal Process. (ICASSP)/, Brighton, UK, May 2019.
+. T. Jiang, K. Yang, and *Y. Shi*, “Pliable data shuffling for on-device distributed learning,” in /Proc. IEEE Int. Conf. Acoust. Speech Signal Process. (ICASSP)/, Brighton, UK, May 2019.
+. Y. Shen, *Y. Shi*, J. Zhang, and K. B. Letaief, “Transfer learning for mixed-integer resource allocation problems in wireless networks,” in /Proc. IEEE Int. Conf. Commun. (ICC)/, Shanghai, China, May 2019.
+. K. Yang, T. Jiang, *Y. Shi*, and Z. Ding, “Federated learning based on over-the-air computation,” in /Proc. IEEE Int. Conf. Commun. (ICC)/, Shanghai, China, May 2019.
+. K. Yu, J. He, and *Y. Shi*, “Stochastic submodular maximization for scalable network adaptation in dense Cloud-RAN,” in /Proc. IEEE Int. Conf. Commun. (ICC)/, Shanghai, China, May 2019.
 . Y. Shen, *Y. Shi*, J. Zhang, and K. B. Letaief, “Scalable network adaption for green Cloud-RANs: An imitation learning approach,” in /Proc. IEEE Global Conf. Signal and Inf. Process. (GlobalSIP)/, Anaheim, CA, Nov. 2018.
 . H. Choi, X. Song, and *Y. Shi*, “Randomized method for estimating the von Neumann entropy of large-scale density matrices,” in /Proc. IEEE Global Conf. Signal and Inf. Process. (GlobalSIP)/, Anaheim, CA, Nov. 2018.
 . T. Jiang and *Y. Shi*, “Sparse and low-rank optimization for pliable index coding,” in /Proc. IEEE Global Conf. Signal and Inf. Process. (GlobalSIP)/, Anaheim, CA, Nov. 2018.
