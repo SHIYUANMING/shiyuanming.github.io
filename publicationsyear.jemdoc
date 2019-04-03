@@ -8,7 +8,6 @@
 . K. Yang, T. Jiang, *Y. Shi*, and Z. Ding, "Federated learning via over-the-air computation," /submitted/. [https://arxiv.org/abs/1812.11750 \[paper\]]
 . Y. Shen, *Y. Shi*, J. Zhang, and K. B. Letaief, "LORA: Learning to optimize for resource allocation in wireless networks with few training samples," /submitted/. [https://arxiv.org/abs/1812.07998 \[paper\]]
 . J. Dong, *Y. Shi*, and Z. Ding, “Blind over-the-air computation and data fusion via provable Wirtinger flow,” /submitted/. [https://arxiv.org/abs/1811.04644 \[paper\]]
-. H. Choi, J. He, H. Hu, and *Y. Shi*, “Fast computing von Neumann entropy for large-scale graphs via quadratic approximations,” /submitted/. [https://arxiv.org/pdf/1811.11087.pdf \[paper\]]
 . M. C. Tsakiris, L. Peng, A. Conca, L. Kneip, *Y. Shi*, and H. Choi, “An algebraic-geometric approach to shuffled linear regression,” /submitted/. [https://arxiv.org/abs/1810.05440 \[paper\]]
 . H. Wang, F. Zhang, Q. Wu, Y. Hu, and *Y. Shi*, “Nonconvex and nonsmooth sparse optimization via adaptively iterative reweighted methods,” /submitted/. [https://arxiv.org/abs/1810.10167 \[paper\]]
 . J. Dong, K. Yang, and *Y. Shi*, “Ranking from crowdsourced pairwise comparisons via smoothed Riemannian optimization,” /submitted/. 
@@ -20,6 +19,7 @@
 . *Y. Shi*, J. Zhang, K. B. Letaief, B. Bai and W. Chen, “Large-Scale Convex Optimization for C-RANs,” in /Cloud Radio Access Networks: Principles, Technologies, and Applications/, Cambridge University Press, 2017. [papers/Book/cran.pdf \[paper\]]
 
 == Journal Articles
+. H. Choi, J. He, H. Hu, and *Y. Shi*, “Fast computing von Neumann entropy for large-scale graphs via quadratic approximations,” /Linear Algebra Appl./ [https://arxiv.org/pdf/1811.11087.pdf \[paper\]]
 . H. Choi, H. Lee, Y. Shen, and *Y. Shi*, “Comparing large-scale graphs based on quantum probability theory,” /Appl. Math. Comput./ [https://arxiv.org/abs/1807.00252 \[paper\]] 
 . K. Yang, *Y. Shi*, and Z. Ding, “Data shuffling in wireless distributed computing via low-rank optimization,” /IEEE Trans. Signal Process./ [https://arxiv.org/abs/1809.07463 \[paper\]]
 . Y. Zhou, J. Li, *Y. Shi*, and V. W. Wong, “Flexible functional split design for downlink C-RAN with capacity-constrained fronthaul,” /IEEE Trans. Veh. Technol./
