@@ -38,20 +38,40 @@ The focus of this course is theory and algorithms for convex optimization (thoug
 .. Stochastic gradient methods
 .. Stochastic Newton methods
 .. Randomized sketching methods
-. *Applications in financial engineering*
-.. Financial modeling
-.. Portfolio optimization
-.. Statistical arbitrage
-. *Applications in machine learning*
-.. Learning models: sparse, low-rank, bilinear, deep models
-.. Convex geometry: phase transitions
-.. Global geometry: saddle point characterizations
-.. Local geometry: basin of attraction
+. *Applications*
+.. Ultra-dense wireless networks
+.. Structured signal processing
+.. Mobile edge artificial intelligence
+.. High-dimensional data analysis
 
+== Project
+Projects can either be individual or in teams of size up to three students. Projects will be evaluated based on a combination of:
+. *In-class presentation* (16-th week of class): prepare an oral presentation with slides (< 5 min). Focus on high-level ideas, and leave most technical details to your report. Good slides do not have a huge amount of text. Good slides do have lots of figures/pictures/illustrations and so on. The purpose of the slides is to provide graphic aids for describing it to someone.
+. *A written report* (the end of 17-th week): you are expected to submit a final project report (up to 8 pages with unlimited appendix and reference, using the Latex template (NIPS format) in Piazza) summarizing your findings and contributions. You must turn in a hard copy of your report as well as an electronic copy.
 
+The term project can either be a literature review or include original research:
+. *Literature review*: we will provide a list of related papers not covered in the lectures, and the literature review should involve in-depth summaries and exposition of one of these papers. Specifically, you should read a number of papers in your selected topic, teach yourself, summarize your findings, provide numerical experiments and theoretic analysis (i.e., convergence analysis and/or statistical analysis).
+. *Original research*: it can be either theoretic or experimental (ideally a mix of the two). You are encouraged to make contributions by finding new applications, novel algorithms, or providing new theoretical analysis, etc. If you try to do original research, please do not propose an overly ambitious project that cannot be completed by the end of the semester, and do not be too lured by generality. Focus on the simplest scenarios that can capture the issues you’d like to address.
 
+*Suggested papers for literature review* [https://sunju.org/research/nonconvex/ \[more papers on nonconvex methods\]]
+. *Large-scale optimization*
+.. B. Vandereycken, “Low-rank matrix completion by Riemannian optimization,” /SIAM J. Optim./, vol. 23, pp. 1214–1236, Jun. 2013. 
+.. C. Jin, R. Ge, P. Netrapalli, S. M. Kakade, and M. I. Jordan, “How to escape saddle points efficiently,” in /Proceedings of the 34th International Conference on Machine Learning (ICML)/, Sydney, Australia, 2017.
+.. J.-y. Gotoh, A. Takeda, and K. Tono, “DC formulations and algorithms for sparse optimization problems,” /Math. Program./, vol. 169, no. 1, pp. 141–176, 2018.
+.. S. Wang, A. Gittens, and M. W. Mahoney, “Sketched ridge regression: Optimization perspective, statistical perspective, and model averaging,” /The Journal of Machine Learning Research/, vol. 18, no. 1, pp. 8039–8088, 2017.
+.. X. Chen, J. Liu, Z. Wang, and W. Yin, “Theoretical linear convergence of unfolded ista and its practical weights and thresholds,” in /Advances in Neural Information Processing Systems/, pp. 9061–9071, 2018.
 
+. *Mathematical data science*
+.. D. Amelunxen, M. Lotz, M. B. McCoy, and J. A. Tropp, “Living on the edge: phase transitions in convex programs with random data,” /Inf. Inference/, vol. 3, pp. 224–294, Jun. 2014.
+.. S. Ling and T. Strohmer, “Blind deconvolution meets blind demixing: Algorithms and performance bounds,” /IEEE Trans. Inf. Theory/, vol. 63, no. 7, pp. 4497–4520, 2017.
+..  S. Oymak, B. Recht, and M. Soltanolkotabi, “Sharp time-data tradeoffs for linear inverse problems,” /IEEE Trans. Inf. Theory/, vol. 64, pp. 4129–4158, Jun. 2018.
+.. C. Ma, K. Wang, Y. Chi, and Y. Chen, “Implicit regularization in nonconvex statistical estimation: Gradient descent converges linearly for phase retrieval, matrix completion and blind deconvolution,” arXiv preprint arXiv:1711.10467, 2017.
+.. J. Dong and Y. Shi, “Nonconvex demixing from bilinear measurements,” /IEEE Trans. Signal Process./, vol. 66, pp. 5152–5166, Oct. 2018.
 
-
-
+. *Provable machine learning*
+.. M. Fazel, R. Ge, S. M. Kakade, and M. Mesbahi, “Global convergence of policy gradient methods for the linear quadratic regulator,”, /in Proceedings of the 35th International Conference on Machine Learning/, Stockholm, Sweden, 2018.
+.. D. Malik, A. Pananjady, K. Bhatia, K. Khamaru, P. L. Bartlett, and M. J. Wainwright, “Derivative-free methods for policy optimization: Guarantees for linear quadratic systems,” in /Proceedings of the 22nd International Conference on Artificial Intelligence and Statistics (AISTATS)/, Naha, Okinawa, Japan, 2019.
+.. M. Khodak, M. Balcan, and A. Talwalkar, “Provable guarantees for gradient-based meta- learning,” CoRR, vol. abs/1902.10644, 2019.
+.. S. Oymak and M. Soltanolkotabi, “Towards moderate overparameterization: global convergence guarantees for training shallow neural networks,” CoRR, vol. abs/1902.04674, 2019.
+.. M. Song, A. Montanari, and P. Nguyen, “A mean field view of the landscape of two-layers neural networks,” /Proceedings of the National Academy of Sciences/, vol. 115, pp. E7665–E7671, 2018.
 
