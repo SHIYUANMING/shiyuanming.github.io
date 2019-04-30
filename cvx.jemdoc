@@ -59,11 +59,13 @@ The term project can either be a literature review or include original research:
 .. C. Jin, R. Ge, P. Netrapalli, S. M. Kakade, and M. I. Jordan, “How to escape saddle points efficiently,” in /Proceedings of the 34th International Conference on Machine Learning (ICML)/, Sydney, Australia, 2017.
 .. J.-y. Gotoh, A. Takeda, and K. Tono, “DC formulations and algorithms for sparse optimization problems,” /Math. Program./, vol. 169, no. 1, pp. 141–176, 2018.
 .. S. Wang, A. Gittens, and M. W. Mahoney, “Sketched ridge regression: Optimization perspective, statistical perspective, and model averaging,” /The Journal of Machine Learning Research/, vol. 18, no. 1, pp. 8039–8088, 2017.
-.. X. Chen, J. Liu, Z. Wang, and W. Yin, “Theoretical linear convergence of unfolded ista and its practical weights and thresholds,” in /Advances in Neural Information Processing Systems/, pp. 9061–9071, 2018.
+.. X. Chen, J. Liu, Z. Wang, and W. Yin, “Theoretical linear convergence of unfolded ISTA and its practical weights and thresholds,” in /Advances in Neural Information Processing Systems/, pp. 9061–9071, 2018.
+.. H. He, H. Daume III, and J. M. Eisner, “Learning to search in branch and bound algorithms,” in Proc. Adv. Neural Inform. Process. Syst., pp. 3293–3301, Dec. 2014.
 
-. *Mathematical data science*
+. *Structured signal processing*
 .. D. Amelunxen, M. Lotz, M. B. McCoy, and J. A. Tropp, “Living on the edge: phase transitions in convex programs with random data,” /Inf. Inference/, vol. 3, pp. 224–294, Jun. 2014.
 .. S. Ling and T. Strohmer, “Blind deconvolution meets blind demixing: Algorithms and performance bounds,” /IEEE Trans. Inf. Theory/, vol. 63, no. 7, pp. 4497–4520, 2017.
+.. A. Ahmed, A. Aghasi, P. Hand, “Simultaneous phase retrieval and blind Ddeconvolution via convex programming,” arXiv preprint arXiv:1904.12680, 2019.
 ..  S. Oymak, B. Recht, and M. Soltanolkotabi, “Sharp time-data tradeoffs for linear inverse problems,” /IEEE Trans. Inf. Theory/, vol. 64, pp. 4129–4158, Jun. 2018.
 .. C. Ma, K. Wang, Y. Chi, and Y. Chen, “Implicit regularization in nonconvex statistical estimation: Gradient descent converges linearly for phase retrieval, matrix completion and blind deconvolution,” arXiv preprint arXiv:1711.10467, 2017.
 .. J. Dong and Y. Shi, “Nonconvex demixing from bilinear measurements,” /IEEE Trans. Signal Process./, vol. 66, pp. 5152–5166, Oct. 2018.
