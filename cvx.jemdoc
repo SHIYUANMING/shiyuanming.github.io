@@ -39,10 +39,13 @@ The focus of this course is theory and algorithms for convex optimization (thoug
 .. Stochastic Newton methods
 .. Randomized sketching methods
 . *Applications*
-.. Ultra-dense wireless networks
-.. Structured signal processing
-.. Mobile edge artificial intelligence
-.. High-dimensional data analysis
+.. Machine learning
+.. Signal processing
+.. Financial engineering
+.. Wireless communications
+
+
+
 
 == Project
 Projects can either be individual or in teams of size up to three students. Projects will be evaluated based on a combination of:
