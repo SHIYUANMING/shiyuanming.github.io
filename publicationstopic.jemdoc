@@ -25,7 +25,7 @@
 /*Journal Articles*/
 . Y. Shen, *Y. Shi*, J. Zhang, and K. B. Letaief, "LORA: Learning to optimize for resource allocation in wireless networks with few training samples," /submitted/. [https://arxiv.org/abs/1812.07998 \[paper\]]
 . K. Yang, T. Jiang, *Y. Shi*, and Z. Ding, "Federated learning via over-the-air computation," /IEEE Trans. Wireless Commun./ [https://arxiv.org/abs/1812.11750 \[paper\]]
-. K. Yang, *Y. Shi*, and Z. Ding, “Data shuffling in wireless distributed computing via low-rank optimization,” /IEEE Trans. Signal Process./ [https://arxiv.org/abs/1809.07463 \[paper\]]
+. K. Yang, *Y. Shi*, and Z. Ding, “Data shuffling in wireless distributed computing via low-rank optimization,” /IEEE Trans. Signal Process./, vol. 67, no. 12, pp. 3087-3099, Jun., 2019. [papers/Journal/TSP19_YangShiDing.pdf \[paper\]] [papers/Codes/TSP19_YangShiDing_code.zip \[codes\]]
 
 
 == Intelligent Internet of Things
@@ -49,7 +49,7 @@
 /*Journal Articles*/
 . H. Choi, T. Jiang, and *Y. Shi*, “Large-scale beamforming for massive MIMO via randomized sketching,” /submitted/. [https://arxiv.org/abs/1903.05904 \[paper\]]
 . Y. Zhou, J. Li, *Y. Shi*, and V. W. Wong, “Flexible functional split design for downlink C-RAN with capacity-constrained fronthaul,” /IEEE Trans. Veh. Technol./
-. K. Yang, *Y. Shi*, and Z. Ding, “Generalized low-rank optimization for topological cooperation in ultra-dense networks,” /IEEE Trans. Wireless Commun./ [https://arxiv.org/abs/1809.08537 \[paper\]]
+. K. Yang, *Y. Shi*, and Z. Ding, “Generalized low-rank optimization for topological cooperation in ultra-dense networks,” /IEEE Trans. Wireless Commun./, vol. 18, no. 5, pp. 2539-2552, May, 2019. [papers/Journal/TWC19_YangShiDing.pdf \[paper\]] [papers/Codes/TWC19_YangShiDing_code.zip \[codes\]]
 . X. Liu, *Y. Shi*, J. Zhang, and K. B. Letaief, “Massive CSI acquisition for dense Cloud-RANs with spatial-temporal dynamics,” /IEEE Trans. Wireless Commun./, vol. 17, no. 4, pp. 2557-2570, Apr. 2018. [papers/Journal/massivecsi_twc18.pdf \[paper\]]
 . *Y. Shi*, J. Zhang, W. Chen, and K. B. Letaief, “Enhanced group sparse beamforming for dense green Cloud-RAN: A random matrix approach,” /IEEE Trans. Wireless Commun./, vol. 17, no. 4, pp. 2511-2524, Apr. 2018. [papers/Journal/rmt_twc18.pdf \[paper\]] [https://github.com/SHIYUANMING/RMT-Beamforming-TWC18 \[codes\]]
 . X. Peng, *Y. Shi*, J. Zhang, and K. B. Letaief, “Layered group sparse beamforming for cache-enabled wireless networks,” /IEEE Trans. Commun./, vol. 65, no. 12, pp. 5589-5603, Nov. 2017. [papers/Journal/lgsbf_tcom17.pdf \[paper\]]
