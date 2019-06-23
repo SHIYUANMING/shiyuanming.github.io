@@ -3,10 +3,15 @@
 
 == Tutorials
 . Sparse and low-rank optimization for dense wireless networks: models, algorithms and theory [sparserank.html \[slides\]]
-.. [http://globecom2017.ieee-globecom.org IEEE Global Communications Conference (GLOBECOM)], Singapore, Dec. 2017.
 .. [http://iccc2018.ieee-iccc.org IEEE/CIC International Conference on Communications in China], Beijing, Aug. 2018.
+.. [https://sites.google.com/view/2017-wbdo International Workshop on Big Data and Optimization], Sungkyunkwan University, Suwon, Korea, Dec. 2017.
+.. [http://globecom2017.ieee-globecom.org IEEE Global Communications Conference (GLOBECOM)], Singapore, Dec. 2017.
+
 
 == Invited Talks
+. Federated machine learning via intelligent over-the-air computation 
+.. Zhejiang University, Hangzhou, May 2019.
+.. Shanghai Jiao Tong University, Shanghai, May 2019.
 . Nonconvex demixing from bilinear measurements [slides/18blinddemixing.pdf \[slides\]]
 .. Tsinghua University, Beijing, Sept. 2018.
 .. Sungkyunkwan University, Suwon, Korea, Sept. 2018.
@@ -14,10 +19,9 @@
 .. Shanghai University, Shanghai, Jul. 2018.
 .. Southern University of Science and Technology, Shenzhen, Jul. 2018.
 .. University of Electronic Science and Technology of China, Chengdu, Jul. 2018.
-. Geometry and statistics in high-dimensional structured optimization [slides/17SKKU_Geometry.pdf \[slides\]]
-.. [https://sites.google.com/view/2017-wbdo International Workshop on Big Data and Optimization], Sungkyunkwan University, Suwon, Korea, Dec. 2017.
-. The power of sparse and low-rank optimization paradigms for network densification [slides/16SJTU_sparselowrank.pdf \[slides\]]
+. Scalable sparse optimization in dense wireless cooperative networks [slides/16SJTU_sparselowrank.pdf \[slides\]]
 .. Shanghai Jiao Tong University, Shanghai, Aug. 2016.
+.. ShanghaiTech University, Shanghai, Jul. 2015. 
 
 
 

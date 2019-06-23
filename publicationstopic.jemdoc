@@ -20,7 +20,7 @@
 *``Distributed Learning, Wireless for AI, AI for Wireless”*
 
 /*Magazine Papers*/
-. K. B. Letaief, W. Chen, *Y. Shi*, J. Zhang, and Y. Zhang, “The roadmap to 6G - AI empowered wireless networks,” /submitted/. [https://arxiv.org/abs/1904.11686 \[paper\]]
+. K. B. Letaief, W. Chen, *Y. Shi*, J. Zhang, and Y. Zhang, “The roadmap to 6G - AI empowered wireless networks,” /IEEE Commun. Mag./ [https://arxiv.org/abs/1904.11686 \[paper\]]
 
 /*Journal Articles*/
 . Y. Shen, *Y. Shi*, J. Zhang, and K. B. Letaief, "LORA: Learning to optimize for resource allocation in wireless networks with few training samples," /submitted/. [https://arxiv.org/abs/1812.07998 \[paper\]]
@@ -48,7 +48,7 @@
 
 /*Journal Articles*/
 . H. Choi, T. Jiang, and *Y. Shi*, “Large-scale beamforming for massive MIMO via randomized sketching,” /submitted/. [https://arxiv.org/abs/1903.05904 \[paper\]]
-. Y. Zhou, J. Li, *Y. Shi*, and V. W. Wong, “Flexible functional split design for downlink C-RAN with capacity-constrained fronthaul,” /IEEE Trans. Veh. Technol./
+. Y. Zhou, J. Li, *Y. Shi*, and V. W. Wong, “Flexible functional split design for downlink C-RAN with capacity-constrained fronthaul,” /IEEE Trans. Veh. Technol./, vol. 68, no. 6, pp. 6050-6063, Jun., 2019. [papers/Journal/TVT19_ZhouLiShiWong.pdf \[paper\]]
 . K. Yang, *Y. Shi*, and Z. Ding, “Generalized low-rank optimization for topological cooperation in ultra-dense networks,” /IEEE Trans. Wireless Commun./, vol. 18, no. 5, pp. 2539-2552, May, 2019. [papers/Journal/TWC19_YangShiDing.pdf \[paper\]] [papers/Codes/TWC19_YangShiDing_code.zip \[codes\]]
 . X. Liu, *Y. Shi*, J. Zhang, and K. B. Letaief, “Massive CSI acquisition for dense Cloud-RANs with spatial-temporal dynamics,” /IEEE Trans. Wireless Commun./, vol. 17, no. 4, pp. 2557-2570, Apr. 2018. [papers/Journal/massivecsi_twc18.pdf \[paper\]]
 . *Y. Shi*, J. Zhang, W. Chen, and K. B. Letaief, “Enhanced group sparse beamforming for dense green Cloud-RAN: A random matrix approach,” /IEEE Trans. Wireless Commun./, vol. 17, no. 4, pp. 2511-2524, Apr. 2018. [papers/Journal/rmt_twc18.pdf \[paper\]] [https://github.com/SHIYUANMING/RMT-Beamforming-TWC18 \[codes\]]
