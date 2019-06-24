@@ -1,4 +1,13 @@
 # jemdoc: menu{MENU}{publicationstopic.html}
+{{<script type="text/javascript">
+    function a(id){
+        var ele = id.nextSibling;
+        if (ele.style.display =="none")
+        ele.style.display="block";
+        else
+        ele.style.display="none";
+    }
+</script>}}
 = PUBLICATIONS
 /*“After writing a story I was always empty and both sad and happy.”*/ — by Ernest Hemingway, “A Moveable Feast"
 
@@ -48,8 +57,33 @@
 
 /*Journal Articles*/
 . H. Choi, T. Jiang, and *Y. Shi*, “Large-scale beamforming for massive MIMO via randomized sketching,” /submitted/. [https://arxiv.org/abs/1903.05904 \[paper\]]
-. Y. Zhou, J. Li, *Y. Shi*, and V. W. Wong, “Flexible functional split design for downlink C-RAN with capacity-constrained fronthaul,” /IEEE Trans. Veh. Technol./, vol. 68, no. 6, pp. 6050-6063, Jun., 2019. [papers/Journal/TVT19_ZhouLiShiWong.pdf \[paper\]]
-. K. Yang, *Y. Shi*, and Z. Ding, “Generalized low-rank optimization for topological cooperation in ultra-dense networks,” /IEEE Trans. Wireless Commun./, vol. 18, no. 5, pp. 2539-2552, May, 2019. [papers/Journal/TWC19_YangShiDing.pdf \[paper\]] [papers/Codes/TWC19_YangShiDing_code.zip \[codes\]]
+. Y. Zhou, J. Li, *Y. Shi*, and V. W. Wong, “Flexible functional split design for downlink C-RAN with capacity-constrained fronthaul,” /IEEE Trans. Veh. Technol./, vol. 68, no. 6, pp. 6050-6063, Jun., 2019. [papers/Journal/TVT19_ZhouLiShiWong.pdf \[paper\]]{{<a onclick="a(this)"> [bibtex]</a><eum style="display:none">
+@ARTICLE{8693874, 
+author={Y. {Zhou} and J. {Li} and Y. {Shi} and V. W. S. {Wong} },<br> 
+journal={IEEE Transactions on Vehicular Technology},<br>
+title={Flexible Functional Split Design for Downlink C-RAN With Capacity-Constrained Fronthaul},<br> 
+year={2019},<br>
+volume={68},<br> 
+number={6},<br> 
+pages={6050-6063},<br> 
+doi={10.1109/TVT.2019.2911934},<br> 
+ISSN={0018-9545},<br> 
+month={June},}
+</eum>}}
+. K. Yang, *Y. Shi*, and Z. Ding, “Generalized low-rank optimization for topological cooperation in ultra-dense networks,” /IEEE Trans. Wireless Commun./, vol. 18, no. 5, pp. 2539-2552, May, 2019. [papers/Journal/TWC19_YangShiDing.pdf \[paper\]] [papers/Codes/TWC19_YangShiDing_code.zip \[codes\]]{{<a onclick="a(this)"> [bibtex]</a><eum style="display:none">
+@ARTICLE{8674787,<br> 
+author={K. {Yang} and Y. {Shi} and Z. {Ding} },<br> 
+journal={IEEE Transactions on Wireless Communications},<br> 
+title={Generalized Low-Rank Optimization for Topological Cooperation in Ultra-Dense Networks}, <br>
+year={2019},<br> 
+volume={18}, <br>
+number={5},<br> 
+pages={2539-2552}, <br>
+doi={10.1109/TWC.2019.2904570}, <br>
+ISSN={1536-1276},<br> 
+month={May},<br>
+}
+</eum>}}
 . X. Liu, *Y. Shi*, J. Zhang, and K. B. Letaief, “Massive CSI acquisition for dense Cloud-RANs with spatial-temporal dynamics,” /IEEE Trans. Wireless Commun./, vol. 17, no. 4, pp. 2557-2570, Apr. 2018. [papers/Journal/massivecsi_twc18.pdf \[paper\]]
 . *Y. Shi*, J. Zhang, W. Chen, and K. B. Letaief, “Enhanced group sparse beamforming for dense green Cloud-RAN: A random matrix approach,” /IEEE Trans. Wireless Commun./, vol. 17, no. 4, pp. 2511-2524, Apr. 2018. [papers/Journal/rmt_twc18.pdf \[paper\]] [https://github.com/SHIYUANMING/RMT-Beamforming-TWC18 \[codes\]]
 . X. Peng, *Y. Shi*, J. Zhang, and K. B. Letaief, “Layered group sparse beamforming for cache-enabled wireless networks,” /IEEE Trans. Commun./, vol. 65, no. 12, pp. 5589-5603, Nov. 2017. [papers/Journal/lgsbf_tcom17.pdf \[paper\]]

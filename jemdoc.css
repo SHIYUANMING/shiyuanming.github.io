@@ -77,6 +77,24 @@ a, a > tt {
 	text-decoration: none;
 }
 
+em {
+	color: #fa6f00;   /* link color */
+	text-decoration: none;
+}
+
+eum {
+    padding: 11.5px;
+    margin: 0 0 12px;
+    font-size: 16px;
+    line-height: 1.428571429;
+    color: #333333;
+    word-break: break-all;
+    word-wrap: break-word;
+    background-color: #f5f5f5;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+}
+
 a:hover {
 	border-bottom: 1px gray dotted;
 }
