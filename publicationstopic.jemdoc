@@ -26,7 +26,7 @@
 
 
 == Mobile Edge Artificial Intelligence
-*``Distributed Learning, Wireless for AI, AI for Wireless”*
+*``Learning, Computing, Communications”*
 
 /*Magazine Papers*/
 . K. B. Letaief, W. Chen, *Y. Shi*, J. Zhang, and Y. Zhang, “The roadmap to 6G - AI empowered wireless networks,” /IEEE Commun. Mag./ [https://arxiv.org/abs/1904.11686 \[paper\]]
@@ -38,7 +38,7 @@
 
 
 == Intelligent Internet of Things
-*``Massive Connectivity, Blind Demixing, Over-the-Air Computation”*
+*``Connectivity, Demixing, Intelligence”*
 
 /*Journal Articles*/
 . J. Dong, *Y. Shi*, and Z. Ding, “Blind over-the-air computation and data fusion via provable Wirtinger flow,” /IEEE Trans. Signal Process./ [https://arxiv.org/abs/1811.04644 \[paper\]]
@@ -49,7 +49,7 @@
 
 
 == Ultra-Dense Wireless Networks 
-*``Sparse, Low-Rank, Manifold, Stochastic Optimization”*
+*``Convex, Nonconvex, Stochastic Optimization”*
 
 /*Magazine Papers*/
 . *Y. Shi*, J. Zhang, W. Chen, and K. B. Letaief, “Generalized sparse and low-rank optimization for ultra-dense networks,” /IEEE Commun. Mag./, vol. 56, no. 6, pp. 42-48, Jun., 2018. [papers/Journal/sparselowrank_commag18.pdf \[paper\]] [slides/17Globecom_Models.pdf \[slides I\]] [slides/17Globecom_Algorithms.pdf \[slides II\]]
