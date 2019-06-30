@@ -35,6 +35,7 @@
 . Y. Shen, *Y. Shi*, J. Zhang, and K. B. Letaief, "LORA: Learning to optimize for resource allocation in wireless networks with few training samples," /submitted/. [https://arxiv.org/abs/1812.07998 \[paper\]]
 . K. Yang, T. Jiang, *Y. Shi*, and Z. Ding, "Federated learning via over-the-air computation," /IEEE Trans. Wireless Commun./ [https://arxiv.org/abs/1812.11750 \[paper\]]
 . K. Yang, *Y. Shi*, and Z. Ding, “Data shuffling in wireless distributed computing via low-rank optimization,” /IEEE Trans. Signal Process./, vol. 67, no. 12, pp. 3087-3099, Jun., 2019. [papers/Journal/TSP19_YangShiDing.pdf \[paper\]] [papers/Codes/TSP19_YangShiDing_code.zip \[codes\]]
+. X. Peng, *Y. Shi*, J. Zhang, and K. B. Letaief, “Layered group sparse beamforming for cache-enabled wireless networks,” /IEEE Trans. Commun./, vol. 65, no. 12, pp. 5589-5603, Nov. 2017. [papers/Journal/lgsbf_tcom17.pdf \[paper\]]
 
 
 == Intelligent Internet of Things
@@ -86,7 +87,6 @@ month={May},<br>
 </eum>}}
 . X. Liu, *Y. Shi*, J. Zhang, and K. B. Letaief, “Massive CSI acquisition for dense Cloud-RANs with spatial-temporal dynamics,” /IEEE Trans. Wireless Commun./, vol. 17, no. 4, pp. 2557-2570, Apr. 2018. [papers/Journal/massivecsi_twc18.pdf \[paper\]]
 . *Y. Shi*, J. Zhang, W. Chen, and K. B. Letaief, “Enhanced group sparse beamforming for dense green Cloud-RAN: A random matrix approach,” /IEEE Trans. Wireless Commun./, vol. 17, no. 4, pp. 2511-2524, Apr. 2018. [papers/Journal/rmt_twc18.pdf \[paper\]] [https://github.com/SHIYUANMING/RMT-Beamforming-TWC18 \[codes\]]
-. X. Peng, *Y. Shi*, J. Zhang, and K. B. Letaief, “Layered group sparse beamforming for cache-enabled wireless networks,” /IEEE Trans. Commun./, vol. 65, no. 12, pp. 5589-5603, Nov. 2017. [papers/Journal/lgsbf_tcom17.pdf \[paper\]]
 . *Y. Shi*, B. Mishra, and W. Chen, “Topological interference management with user admission control via Riemannian optimization,” /IEEE Trans. Wireless Commun./, vol. 16, no. 11, pp. 7362-7375, Nov. 2017. [papers/Journal/timadmission_twc17.pdf \[paper\]] [https://github.com/SHIYUANMING/TIM-Admission-TWC17 \[codes\]]
 . *Y. Shi*, J. Zhang, and K. B. Letaief, “Low-rank matrix completion for topological interference management by Riemannian pursuit,” /IEEE Trans. Wireless Commun./, vol. 15, no. 7, pp. 4703-4717, Jul. 2016. [papers/Journal/lrmctim_twc16.pdf \[paper\]] [https://github.com/SHIYUANMING/Low-Rank-Matrix-Completion-TIM \[codes\]]
 . *Y. Shi*, J. Cheng, J. Zhang, B. Bai, W. Chen and K. B. Letaief, “Smoothed /Lp/-minimization for green Cloud-RAN with user admission control,” /IEEE J. Select. Areas Commun./, vol. 34, no. 4, pp. 1022-1036, Apr. 2016. [papers/Journal/smgsbf_jsac16.pdf \[paper\]] [https://github.com/SHIYUANMING/Green-Cloud-RAN-JSAC \[codes\]]
