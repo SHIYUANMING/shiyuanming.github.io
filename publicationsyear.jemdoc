@@ -14,7 +14,6 @@
 
 == In the Pipeline…
 . H. Choi, T. Jiang, and *Y. Shi*, “Large-scale beamforming for massive MIMO via randomized sketching,” /submitted/. [https://arxiv.org/abs/1903.05904 \[paper\]]
-. Y. Shen, *Y. Shi*, J. Zhang, and K. B. Letaief, "LORA: Learning to optimize for resource allocation in wireless networks with few training samples," /submitted/. [https://arxiv.org/abs/1812.07998 \[paper\]]
 . M. C. Tsakiris, L. Peng, A. Conca, L. Kneip, *Y. Shi*, and H. Choi, “An algebraic-geometric approach to shuffled linear regression,” /submitted/. [https://arxiv.org/abs/1810.05440 \[paper\]]
 . H. Wang, F. Zhang, Q. Wu, Y. Hu, and *Y. Shi*, “Nonconvex and nonsmooth sparse optimization via adaptively iterative reweighted methods,” /submitted/. [https://arxiv.org/abs/1810.10167 \[paper\]]
 . J. Dong, K. Yang, and *Y. Shi*, “Ranking from crowdsourced pairwise comparisons via smoothed Riemannian optimization,” /submitted/. 
@@ -27,6 +26,7 @@
 
 == Journal Articles
 . K. B. Letaief, W. Chen, *Y. Shi*, J. Zhang, and Y. Zhang, “The roadmap to 6G - AI empowered wireless networks,” /IEEE Commun. Mag./ [https://arxiv.org/abs/1904.11686 \[paper\]]
+. Y. Shen, *Y. Shi*, J. Zhang, and K. B. Letaief, "LORA: Learning to optimize for resource allocation in wireless networks with few training samples," /IEEE Trans. Wireless Commun./ [https://arxiv.org/abs/1812.07998 \[paper\]]
 . J. Dong, *Y. Shi*, and Z. Ding, “Blind over-the-air computation and data fusion via provable Wirtinger flow,” /IEEE Trans. Signal Process./ [https://arxiv.org/abs/1811.04644 \[paper\]]
 . K. Yang, T. Jiang, *Y. Shi*, and Z. Ding, "Federated learning via over-the-air computation," /IEEE Trans. Wireless Commun./ [https://arxiv.org/abs/1812.11750 \[paper\]]
 . H. Choi, J. He, H. Hu, and *Y. Shi*, “Fast computing von Neumann entropy for large-scale graphs via quadratic approximations,” /Linear Algebra Appl./ [https://arxiv.org/pdf/1811.11087.pdf \[paper\]]
