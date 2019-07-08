@@ -15,9 +15,10 @@
 *``Statistics, Optimization, Geometry”*
 
 /*Journal Articles*/
+. S. Xia and *Y. Shi*, “Learning polynomial neural networks via provablegradient descent with random initialization,” /submitted/.
 . M. C. Tsakiris, L. Peng, A. Conca, L. Kneip, *Y. Shi*, and H. Choi, “An algebraic-geometric approach to shuffled linear regression,” /submitted/. [https://arxiv.org/abs/1810.05440 \[paper\]]
 . H. Wang, F. Zhang, Q. Wu, Y. Hu, and *Y. Shi*, “Nonconvex and nonsmooth sparse optimization via adaptively iterative reweighted methods,” /submitted/. [https://arxiv.org/abs/1810.10167 \[paper\]]
-. J. Dong, K. Yang, and *Y. Shi*, “Ranking from crowdsourced pairwise comparisons via smoothed Riemannian optimization,” /submitted/. 
+. J. Dong, K. Yang, and *Y. Shi*, “Ranking from crowdsourced pairwise comparisons via smoothed Riemannian optimization,” /ACM Trans. Knowl. Discovery Data./
 . H. Choi, J. He, H. Hu, and *Y. Shi*, “Fast computing von Neumann entropy for large-scale graphs via quadratic approximations,” /Linear Algebra Appl./ [https://arxiv.org/pdf/1811.11087.pdf \[paper\]]
 . H. Choi, H. Lee, Y. Shen, and *Y. Shi*, “Comparing large-scale graphs based on quantum probability theory,” /Appl. Math. Comput./ [https://arxiv.org/abs/1807.00252 \[paper\]] 
 . H. Choi, S. Kim, and *Y. Shi*, “Geometric mean of partial positive definite matrices with missing entries,” /Linear Multilinear Algebra/. [https://arxiv.org/abs/1811.00547 \[paper\]]
