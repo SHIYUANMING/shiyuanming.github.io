@@ -78,7 +78,9 @@ month={May},<br>
 . *Y. Shi*, J. Zhang, and K. B. Letaief, “Group sparse beamforming for green Cloud-RAN,” /IEEE Trans. Wireless Commun./, vol. 13, no. 5, pp. 2809-2823, May 2014. [papers/Journal/gsbf_twc14.pdf \[paper\]] [https://github.com/SHIYUANMING/large-scale-convex-optimization \[codes\]] [http://www.comsoc.org/about/memberprograms/comsoc-awards/marconi (*The 2016 Marconi Prize Paper Award*)]
 
 == Conference Papers
-. S. Hua, K. Yang and *Y. Shi*, “On-device federated learning via second-order optimization with over-the-air computation,” in /Pro. IEEE Veh. Technol. Conf. (VTC)/, Honolulu, Hawaii, USA, Sept. 2019.
+. T. Jiang and *Y. Shi*, “Over-the-air computation via intelligent reflecting surfaces,” in /Proc. IEEE Global Commun. Conf. (Globecom)/, Waikoloa, Hawaii, USA, Dec. 2019.
+. H. Choi, T. Jiang, W. Li, and *Y. Shi*, “Randomized sketching based beamforming for massive MIMO,” in /Proc. IEEE Global Commun. Conf. (Globecom)/, Waikoloa, Hawaii, USA, Dec. 2019.
+. S. Hua, K. Yang, and *Y. Shi*, “On-device federated learning via second-order optimization with over-the-air computation,” in /Pro. IEEE Veh. Technol. Conf. (VTC)/, Honolulu, Hawaii, USA, Sept. 2019.
 . M. Fu and *Y. Shi*, “Blind deconvolution meets phase retrieval in optical wireless communications,” in /Pro. IEEE Veh. Technol. Conf. (VTC)/, Honolulu, Hawaii, USA, Sept. 2019.
 . M. Fu, J. Dong, and *Y. Shi*, “Sparse blind demixing for low-latency wireless random access with massive connectivity,” in /Pro. IEEE Veh. Technol. Conf. (VTC)/, Honolulu, Hawaii, USA, Sept. 2019.
 . S. Hua, X. Yang, K. Yang, G. Yin, *Y. Shi*, and H. Wang, “Deep learning tasks processing in Fog-RAN,” in /Pro. IEEE Veh. Technol. Conf. (VTC)/, Honolulu, Hawaii, USA, Sept. 2019.
