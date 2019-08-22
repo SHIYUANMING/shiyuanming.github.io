@@ -18,7 +18,7 @@
 . H. Choi, T. Jiang, and *Y. Shi*, “Large-scale beamforming for massive MIMO via randomized sketching,” /submitted/. [https://arxiv.org/abs/1903.05904 \[paper\]]
 . M. C. Tsakiris, L. Peng, A. Conca, L. Kneip, *Y. Shi*, and H. Choi, “An algebraic-geometric approach to shuffled linear regression,” /submitted/. [https://arxiv.org/abs/1810.05440 \[paper\]]
 . H. Wang, F. Zhang, Q. Wu, Y. Hu, and *Y. Shi*, “Nonconvex and nonsmooth sparse optimization via adaptively iterative reweighted methods,” /submitted/. [https://arxiv.org/abs/1810.10167 \[paper\]]
-
+. X. Yang, T. Jiang, *Y. Shi*, and H. Wang, “An inexact iteratively reweighted approach for efficient neuron pruning,” /submitted/. 
 
 
 == Book Chapters
@@ -26,42 +26,18 @@
 . *Y. Shi*, J. Zhang, K. B. Letaief, B. Bai and W. Chen, “Large-Scale Convex Optimization for C-RANs,” in /Cloud Radio Access Networks: Principles, Technologies, and Applications/, Cambridge University Press, 2017. [papers/Book/cran.pdf \[paper\]]
 
 == Journal Articles
-. K. B. Letaief, W. Chen, *Y. Shi*, J. Zhang, and Y. Zhang, “The roadmap to 6G - AI empowered wireless networks,” /IEEE Commun. Mag./ [https://arxiv.org/abs/1904.11686 \[paper\]]
 . J. Dong, K. Yang, and *Y. Shi*, “Ranking from crowdsourced pairwise comparisons via smoothed Riemannian optimization,” /ACM Trans. Knowl. Discovery Data./
 . Y. Shen, *Y. Shi*, J. Zhang, and K. B. Letaief, "LORA: Learning to optimize for resource allocation in wireless networks with few training samples," /IEEE Trans. Wireless Commun./ [https://arxiv.org/abs/1812.07998 \[paper\]]
 . J. Dong, *Y. Shi*, and Z. Ding, “Blind over-the-air computation and data fusion via provable Wirtinger flow,” /IEEE Trans. Signal Process./ [https://arxiv.org/abs/1811.04644 \[paper\]]
 . K. Yang, T. Jiang, *Y. Shi*, and Z. Ding, "Federated learning via over-the-air computation," /IEEE Trans. Wireless Commun./ [https://arxiv.org/abs/1812.11750 \[paper\]]
 . H. Choi, J. He, H. Hu, and *Y. Shi*, “Fast computing von Neumann entropy for large-scale graphs via quadratic approximations,” /Linear Algebra Appl./ [https://arxiv.org/pdf/1811.11087.pdf \[paper\]]
-. H. Choi, H. Lee, Y. Shen, and *Y. Shi*, “Comparing large-scale graphs based on quantum probability theory,” /Appl. Math. Comput./ [https://arxiv.org/abs/1807.00252 \[paper\]] 
-. T. Jiang, *Y. Shi*, J. Zhang, and K. B. Letaief, “Joint activity detection and channel estimation for IoT networks: phase transition and computation-estimation tradeoff,” /IEEE Internet of Things J./ [https://arxiv.org/abs/1810.00720 \[paper\]] 
+. H. Choi, H. Lee, Y. Shen, and *Y. Shi*, “Comparing large-scale graphs based on quantum probability theory,” /Appl. Math. Comput./ [https://arxiv.org/abs/1807.00252 \[paper\]]  
 . H. Choi, S. Kim, and *Y. Shi*, “Geometric mean of partial positive definite matrices with missing entries,” /Linear Multilinear Algebra/. [https://arxiv.org/abs/1811.00547 \[paper\]]
-. Y. Zhou, J. Li, *Y. Shi*, and V. W. Wong, “Flexible functional split design for downlink C-RAN with capacity-constrained fronthaul,” /IEEE Trans. Veh. Technol./, vol. 68, no. 6, pp. 6050-6063, Jun., 2019. [papers/Journal/TVT19_ZhouLiShiWong.pdf \[paper\]]{{<a onclick="a(this)"> [bibtex]</a><eum style="display:none">
-@ARTICLE{8693874, 
-author={Y. {Zhou} and J. {Li} and Y. {Shi} and V. W. S. {Wong} },<br> 
-journal={IEEE Transactions on Vehicular Technology},<br>
-title={Flexible Functional Split Design for Downlink C-RAN With Capacity-Constrained Fronthaul},<br> 
-year={2019},<br>
-volume={68},<br> 
-number={6},<br> 
-pages={6050-6063},<br> 
-doi={10.1109/TVT.2019.2911934},<br> 
-ISSN={0018-9545},<br> 
-month={June},}
-</eum>}}
+. K. B. Letaief, W. Chen, *Y. Shi*, J. Zhang, and Y. Zhang, “The roadmap to 6G - AI empowered wireless networks,” /IEEE Commun. Mag./, vol. 57, no. 8, pp. 84-90, Aug. 2019. [papers/Journal/ComMag19_LetaiefChenZhang.pdf \[paper\]]
+. T. Jiang, *Y. Shi*, J. Zhang, and K. B. Letaief, “Joint activity detection and channel estimation for IoT networks: phase transition and computation-estimation tradeoff,” /IEEE Internet of Things J./, vol. 6, no. 4, pp. 6212-6225, Aug. 2019. [papers/Journal/IoT19_JiangShiZhangLetaief.pdf \[paper\]]
+. Y. Zhou, J. Li, *Y. Shi*, and V. W. Wong, “Flexible functional split design for downlink C-RAN with capacity-constrained fronthaul,” /IEEE Trans. Veh. Technol./, vol. 68, no. 6, pp. 6050-6063, Jun., 2019. [papers/Journal/TVT19_ZhouLiShiWong.pdf \[paper\]]
 . K. Yang, *Y. Shi*, and Z. Ding, “Data shuffling in wireless distributed computing via low-rank optimization,” /IEEE Trans. Signal Process./, vol. 67, no. 12, pp. 3087-3099, Jun., 2019. [papers/Journal/TSP19_YangShiDing.pdf \[paper\]] [papers/Codes/TSP19_YangShiDing_code.zip \[codes\]]
-. K. Yang, *Y. Shi*, and Z. Ding, “Generalized low-rank optimization for topological cooperation in ultra-dense networks,” /IEEE Trans. Wireless Commun./, vol. 18, no. 5, pp. 2539-2552, May, 2019. [papers/Journal/TWC19_YangShiDing.pdf \[paper\]] [papers/Codes/TWC19_YangShiDing_code.zip \[codes\]]{{<a onclick="a(this)"> [bibtex]</a><eum style="display:none">@ARTICLE{8674787,<br> 
-author={K. {Yang} and Y. {Shi} and Z. {Ding} },<br> 
-journal={IEEE Transactions on Wireless Communications},<br> 
-title={Generalized Low-Rank Optimization for Topological Cooperation in Ultra-Dense Networks}, <br>
-year={2019},<br> 
-volume={18}, <br>
-number={5},<br> 
-pages={2539-2552}, <br>
-doi={10.1109/TWC.2019.2904570}, <br>
-ISSN={1536-1276},<br> 
-month={May},<br>
-}
-</eum>}}
+. K. Yang, *Y. Shi*, and Z. Ding, “Generalized low-rank optimization for topological cooperation in ultra-dense networks,” /IEEE Trans. Wireless Commun./, vol. 18, no. 5, pp. 2539-2552, May, 2019. [papers/Journal/TWC19_YangShiDing.pdf \[paper\]] [papers/Codes/TWC19_YangShiDing_code.zip \[codes\]]
 . J. Dong, K. Yang, and *Y. Shi*, “Blind demixing for low-latency communication,” /IEEE Trans. Wireless Commun./, vol. 18, no. 2, pp. 897-911, Feb., 2019. [papers/Journal/demix_twc19.pdf \[paper\]] [papers/Codes/demix_twc19.zip \[codes\]]
 . J. Dong and *Y. Shi*, “Nonconvex demixing from bilinear measurements,” /IEEE Trans. Signal Process./, vol. 66, no. 19, pp. 5152-5166, Oct., 2018. [papers/Journal/demixing_tsp18.pdf \[paper\]] [https://github.com/SHIYUANMING/Demixing-TSP \[codes\]]
 . *Y. Shi*, J. Zhang, W. Chen, and K. B. Letaief, “Generalized sparse and low-rank optimization for ultra-dense networks,” /IEEE Commun. Mag./, vol. 56, no. 6, pp. 42-48, Jun., 2018. [papers/Journal/sparselowrank_commag18.pdf \[paper\]] [slides/17Globecom_Models.pdf \[slides I\]] [slides/17Globecom_Algorithms.pdf \[slides II\]]
@@ -78,6 +54,10 @@ month={May},<br>
 . *Y. Shi*, J. Zhang, and K. B. Letaief, “Group sparse beamforming for green Cloud-RAN,” /IEEE Trans. Wireless Commun./, vol. 13, no. 5, pp. 2809-2823, May 2014. [papers/Journal/gsbf_twc14.pdf \[paper\]] [https://github.com/SHIYUANMING/large-scale-convex-optimization \[codes\]] [http://www.comsoc.org/about/memberprograms/comsoc-awards/marconi (*The 2016 Marconi Prize Paper Award*)]
 
 == Conference Papers
+. M. Fu, Y. Zhou, and *Y. Shi*, “Intelligent reflecting surface for downlink non-orthogonal multiple access networks,” in /Proc. IEEE Global Commun. Conf. (Globecom) Workshops/, Waikoloa, Hawaii, USA, Dec. 2019.
+. S. Hua and *Y. Shi*, “Reconfigurable intelligent surface for green edge inference in machine learning,” in /Proc. IEEE Global Commun. Conf. (Globecom) Workshops/, Waikoloa, Hawaii, USA, Dec. 2019.
+. Y. Shi and *Y. Shi*, “Learning to branch-and-bound for header-free communications,” in /Proc. IEEE Global Commun. Conf. (Globecom) Workshops/, Waikoloa, Hawaii, USA, Dec. 2019.
+. Y. Shen, *Y. Shi*, J. Zhang, and K. B. Letaief, “A graph neural network approach for scalable wireless power control,” in /Proc. IEEE Global Commun. Conf. (Globecom) Workshops/, Waikoloa, Hawaii, USA, Dec. 2019.
 . T. Jiang and *Y. Shi*, “Over-the-air computation via intelligent reflecting surfaces,” in /Proc. IEEE Global Commun. Conf. (Globecom)/, Waikoloa, Hawaii, USA, Dec. 2019.
 . H. Choi, T. Jiang, W. Li, and *Y. Shi*, “Randomized sketching based beamforming for massive MIMO,” in /Proc. IEEE Global Commun. Conf. (Globecom)/, Waikoloa, Hawaii, USA, Dec. 2019.
 . S. Hua, K. Yang, and *Y. Shi*, “On-device federated learning via second-order optimization with over-the-air computation,” in /Pro. IEEE Veh. Technol. Conf. (VTC)/, Honolulu, Hawaii, USA, Sept. 2019.
@@ -109,7 +89,7 @@ month={May},<br>
 . K. Yang, *Y. Shi*, and Z. Ding, “Generalized matrix completion for low complexity transceiver processing in cache-aided Fog-RAN via the Burer-Monteiro approach,” in /Proc. IEEE Global Conf. Signal and Inf. Process. (GlobalSIP)/, Montreal, Canada, Nov. 2017.
 . *Y. Shi*, B. Mishra, X. Liu, and W. Chen, “A sparse and low-rank optimization framework for network topology control in dense Fog-RAN,” in /Pro. IEEE Veh. Technol. Conf. (VTC)/, Sydney, Australia, Jun. 2017.
 . X. Liu, *Y. Shi*, J. Zhang, and K. B. Letaief, “Massive CSI acquisition in dense Cloud-RAN with spatial and temporal prior information,” in /Proc. IEEE Int. Conf. Commun. (ICC)/, Paris, France, May 2017.
-. *Y. Shi* and B. Mishra, “Sparse and low-rank decomposition for big data systems via smoothed Riemannian optimization,” in /9th NIPS workshop on Optimization for Machine Learning (OPT2016)/, Barcelona, Spain, Dec. 2016.
+. *Y. Shi* and B. Mishra, “Sparse and low-rank decomposition for big data systems via smoothed Riemannian optimization,” in /Proc. Neural Inf. Process. Syst. (NeurIPS) Workshops/, Barcelona, Spain, Dec. 2016.
 . Y. Su, *Y. Shi*, B. Bai, W. Chen, J. Zhang, K. B. Letaief, and S. Zhou, “Optimal stochastic power control with compressive CSI acquisition for Cloud-RAN,” in /Proc. IEEE Global Conf. Signal and Inf. Process. (GlobalSIP)/, Washington, DC, Dec. 2016.
 . K. Yang, *Y. Shi*, J. Zhang, Z. Ding and K. B. Letaief, “A low-rank approach for interference management in dense wireless networks,” in /Proc. IEEE Global Conf. Signal and Inf. Process. (GlobalSIP)/, Washington, DC, Dec. 2016.
 . K. Yang, *Y. Shi*, and Z. Ding, “Low-rank matrix completion for mobile edge caching in Fog-RAN via Riemannian optimization,” in /Proc. IEEE Global Communications Conf. (GLOBECOM)/, Washington, DC, Dec. 2016.
