@@ -1,0 +1,53 @@
+# jemdoc: menu{MENU}{teaching.html}, showsource
+= SI140: Probability and Statistics
+[http://shiyuanming.github.io Yuanming Shi], ShanghaiTech University
+
+== Description
+The goal of this course is to provide a carefully motivated, accessible, and interesting introduction to probability, random process, and statistics for electrical and computer engineers. The complexity of the systems encountered in engineering practice calls for an understanding of probability concepts and a facility in the use of probability, for which we shall teach both the basic theoretical concepts and techniques for solving problems that arise in practice.  
+
+== Textbooks and Optional References
+*Textbooks:*
+- [https://www.amazon.com/Probability-Statistics-Processes-Electrical-Engineering/dp/0131471228 /Probability, Statistics and Random Processes for Electrical Engineering/], by Alberto Leon-Garcia, Pearson, Third Edition, 2008.
+
+*References:*
+- [https://www.cambridge.org/core/books/highdimensional-probability/797C466DA29743D2C8213493BD2D2102 /High-Dimensional Probability: An Introduction with Applications in Data Science/], by Roman Vershynin, Cambridge University Press, 2018.
+- [https://terrytao.wordpress.com/books/topics-in-random-matrix-theory/ /Topics in Random Matrix Theory/], by Terence Tao, American Mathematical Society, 2012.
+- [https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E /High-Dimensional Statistics: A Non-Asymptotic Viewpoint/], by Martin Wainwright, Cambridge University Press, 2019.
+
+== Lectures
+. *Basic Probability Theory*
+.. Course Introduction, Probability Models
+.. Random Experiments, Set Operations, and Probability Axioms
+.. Probabilities and Counting
+.. Conditional Probability, Independence
+.. Sequential Experiments
+. *Single Random Variable*
+.. Discrete Random Variables, Probability Mass Function 
+.. Expected Value and Moments
+.. Conditional Probability Mass Function
+.. Important Discrete RVs
+.. Continuous RVs, CDF, PDF
+.. Expected value, Important Continuous RVs
+.. Functions of a RV
+. *Pairs of Random Variables*
+.. Pairs of discrete RV’s 
+.. Pairs of continuous RV’s
+.. Independence, Joint Moments
+.. Conditional Probability, Conditional Expectation
+.. Functions of Two RV’s
+.. Multiple Random Variables and Expectation
+.. Jointly Gaussian RV’s
+. *Sum of Random Variables and Random Process*
+.. Sums of Random Variables; Laws of Large Numbers
+.. Transform methods, Central Limit Theorem
+.. Definition of a Random Process, Specifying a Random Process
+.. Mean and Autocorrelation of Random Processes
+.. Discrete Time Random Processes
+.. Continuous Time Random Processes
+.. Stationary Random Processes
+. *Statistics*
+.. Samples and Sampling Distributions
+.. Parameter Estimation, Maximum Likelihood Estimation
+.. Confidence Intervals
+.. Hypothesis Testing
+.. Bayesian Decision Methods
