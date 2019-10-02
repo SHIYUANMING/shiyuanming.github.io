@@ -27,8 +27,8 @@
 
 
 
-== Mobile Edge Artificial Intelligence
-*``Learning, Computing, Caching”*
+== Mobile Artificial Intelligence
+*``Learning, Computing, Communication”*
 
 /*Magazine Papers*/
 . K. B. Letaief, W. Chen, *Y. Shi*, J. Zhang, and Y. Zhang, “The roadmap to 6G - AI empowered wireless networks,” /IEEE Commun. Mag./, vol. 57, no. 8, pp. 84-90, Aug. 2019. [papers/Journal/ComMag19_LetaiefChenZhang.pdf \[paper\]]
@@ -38,7 +38,6 @@
 . Y. Shen, *Y. Shi*, J. Zhang, and K. B. Letaief, "LORA: Learning to optimize for resource allocation in wireless networks with few training samples," /IEEE Trans. Wireless Commun./ [https://arxiv.org/abs/1812.07998 \[paper\]]
 . K. Yang, T. Jiang, *Y. Shi*, and Z. Ding, "Federated learning via over-the-air computation," /IEEE Trans. Wireless Commun./ [https://arxiv.org/abs/1812.11750 \[paper\]]
 . K. Yang, *Y. Shi*, and Z. Ding, “Data shuffling in wireless distributed computing via low-rank optimization,” /IEEE Trans. Signal Process./, vol. 67, no. 12, pp. 3087-3099, Jun., 2019. [papers/Journal/TSP19_YangShiDing.pdf \[paper\]] [papers/Codes/TSP19_YangShiDing_code.zip \[codes\]]
-. X. Peng, *Y. Shi*, J. Zhang, and K. B. Letaief, “Layered group sparse beamforming for cache-enabled wireless networks,” /IEEE Trans. Commun./, vol. 65, no. 12, pp. 5589-5603, Nov. 2017. [papers/Journal/lgsbf_tcom17.pdf \[paper\]]
 
 
 == Intelligent Internet of Things
@@ -91,6 +90,7 @@ month={May},<br>
 . X. Liu, *Y. Shi*, J. Zhang, and K. B. Letaief, “Massive CSI acquisition for dense Cloud-RANs with spatial-temporal dynamics,” /IEEE Trans. Wireless Commun./, vol. 17, no. 4, pp. 2557-2570, Apr. 2018. [papers/Journal/massivecsi_twc18.pdf \[paper\]]
 . *Y. Shi*, J. Zhang, W. Chen, and K. B. Letaief, “Enhanced group sparse beamforming for dense green Cloud-RAN: A random matrix approach,” /IEEE Trans. Wireless Commun./, vol. 17, no. 4, pp. 2511-2524, Apr. 2018. [papers/Journal/rmt_twc18.pdf \[paper\]] [https://github.com/SHIYUANMING/RMT-Beamforming-TWC18 \[codes\]]
 . *Y. Shi*, B. Mishra, and W. Chen, “Topological interference management with user admission control via Riemannian optimization,” /IEEE Trans. Wireless Commun./, vol. 16, no. 11, pp. 7362-7375, Nov. 2017. [papers/Journal/timadmission_twc17.pdf \[paper\]] [https://github.com/SHIYUANMING/TIM-Admission-TWC17 \[codes\]]
+. X. Peng, *Y. Shi*, J. Zhang, and K. B. Letaief, “Layered group sparse beamforming for cache-enabled wireless networks,” /IEEE Trans. Commun./, vol. 65, no. 12, pp. 5589-5603, Nov. 2017. [papers/Journal/lgsbf_tcom17.pdf \[paper\]]
 . *Y. Shi*, J. Zhang, and K. B. Letaief, “Low-rank matrix completion for topological interference management by Riemannian pursuit,” /IEEE Trans. Wireless Commun./, vol. 15, no. 7, pp. 4703-4717, Jul. 2016. [papers/Journal/lrmctim_twc16.pdf \[paper\]] [https://github.com/SHIYUANMING/Low-Rank-Matrix-Completion-TIM \[codes\]]
 . *Y. Shi*, J. Cheng, J. Zhang, B. Bai, W. Chen and K. B. Letaief, “Smoothed /Lp/-minimization for green Cloud-RAN with user admission control,” /IEEE J. Select. Areas Commun./, vol. 34, no. 4, pp. 1022-1036, Apr. 2016. [papers/Journal/smgsbf_jsac16.pdf \[paper\]] [https://github.com/SHIYUANMING/Green-Cloud-RAN-JSAC \[codes\]]
 . *Y. Shi*, J. Zhang, B. O’Donoghue, and K. B. Letaief, “Large-scale convex optimization for dense wireless cooperative networks,” /IEEE Trans. Signal Process./, vol. 63, no. 18, pp. 4729-4743, Sept. 2015. [papers/Journal/largecvx_tsp15.pdf \[paper\]][https://github.com/SHIYUANMING/large-scale-convex-optimization \[codes\]] [http://signalprocessingsociety.org/get-involved/awards-submit-award-nomination (*The 2016 IEEE Signal Processing Society Young Author Best Paper Award*)]
