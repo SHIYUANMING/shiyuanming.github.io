@@ -17,14 +17,11 @@
 /*Journal Articles*/
 . X. Yang, T. Jiang, *Y. Shi*, and H. Wang, “An inexact iteratively reweighted approach for efficient neuron pruning,” /submitted/. 
 . S. Xia and *Y. Shi*, “Learning polynomial neural networks via provablegradient descent with random initialization,” /submitted/.
-. M. C. Tsakiris, L. Peng, A. Conca, L. Kneip, *Y. Shi*, and H. Choi, “An algebraic-geometric approach to shuffled linear regression,” /submitted/. [https://arxiv.org/abs/1810.05440 \[paper\]]
 . H. Wang, F. Zhang, Q. Wu, Y. Hu, and *Y. Shi*, “Nonconvex and nonsmooth sparse optimization via adaptively iterative reweighted methods,” /submitted/. [https://arxiv.org/abs/1810.10167 \[paper\]]
 . J. Dong, K. Yang, and *Y. Shi*, “Ranking from crowdsourced pairwise comparisons via smoothed Riemannian optimization,” /ACM Trans. Knowl. Discovery Data./
 . H. Choi, J. He, H. Hu, and *Y. Shi*, “Fast computing von Neumann entropy for large-scale graphs via quadratic approximations,” /Linear Algebra Appl./ [https://arxiv.org/pdf/1811.11087.pdf \[paper\]]
 . H. Choi, H. Lee, Y. Shen, and *Y. Shi*, “Comparing large-scale graphs based on quantum probability theory,” /Appl. Math. Comput./ [https://arxiv.org/abs/1807.00252 \[paper\]] 
 . H. Choi, S. Kim, and *Y. Shi*, “Geometric mean of partial positive definite matrices with missing entries,” /Linear Multilinear Algebra/. [https://arxiv.org/abs/1811.00547 \[paper\]]
-. J. Dong and *Y. Shi*, “Nonconvex demixing from bilinear measurements,” /IEEE Trans. Signal Process./, vol. 66, no. 19, pp. 5152-5166, Oct., 2018. [papers/Journal/demixing_tsp18.pdf \[paper\]] [https://github.com/SHIYUANMING/Demixing-TSP \[codes\]]
-
 
 
 == Mobile Edge Artificial Intelligence
@@ -45,9 +42,11 @@
 *``Connectivity, Intelligence, Healthcare”*
 
 /*Journal Articles*/
+. M. C. Tsakiris, L. Peng, A. Conca, L. Kneip, *Y. Shi*, and H. Choi, “An algebraic-geometric approach to shuffled linear regression,” /IEEE Trans. Inf. Theory/. [https://arxiv.org/abs/1810.05440 \[paper\]]
 . J. Dong, *Y. Shi*, and Z. Ding, “Blind over-the-air computation and data fusion via provable Wirtinger flow,” /IEEE Trans. Signal Process./ [https://arxiv.org/abs/1811.04644 \[paper\]]
 . T. Jiang, *Y. Shi*, J. Zhang, and K. B. Letaief, “Joint activity detection and channel estimation for IoT networks: phase transition and computation-estimation tradeoff,” /IEEE Internet of Things J./, vol. 6, no. 4, pp. 6212-6225, Aug. 2019. [papers/Journal/IoT19_JiangShiZhangLetaief.pdf \[paper\]]
 . J. Dong, K. Yang, and *Y. Shi*, “Blind demixing for low-latency communication,” /IEEE Trans. Wireless Commun./, vol. 18, no. 2, pp. 897-911, Feb., 2019. [papers/Journal/demix_twc19.pdf \[paper\]] [papers/Codes/demix_twc19.zip \[codes\]]
+. J. Dong and *Y. Shi*, “Nonconvex demixing from bilinear measurements,” /IEEE Trans. Signal Process./, vol. 66, no. 19, pp. 5152-5166, Oct., 2018. [papers/Journal/demixing_tsp18.pdf \[paper\]] [https://github.com/SHIYUANMING/Demixing-TSP \[codes\]]
 
 
 
