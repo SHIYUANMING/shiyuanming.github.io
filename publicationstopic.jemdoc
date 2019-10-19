@@ -59,6 +59,7 @@
 . *Y. Shi*, J. Zhang, K. B. Letaief, B. Bai, and W. Chen, “Large-scale convex optimization for ultra-dense Cloud-RAN,” /IEEE Wireless Commun./, vol. 22, no. 3, pp. 84-91, Jun. 2015. [papers/Journal/cran_wcmag15.pdf \[paper\]]
 
 /*Journal Articles*/
+. M. Fu, Y. Zhou, and *Y. Shi*, “Reconfigurable intelligent surface empowered downlink non-orthogonal multiple access,” /submitted/. [https://arxiv.org/abs/1910.07361 \[paper\]]
 . H. Choi, T. Jiang, and *Y. Shi*, “Large-scale beamforming for massive MIMO via randomized sketching,” /submitted/. [https://arxiv.org/abs/1903.05904 \[paper\]]
 . Y. Zhou, J. Li, *Y. Shi*, and V. W. Wong, “Flexible functional split design for downlink C-RAN with capacity-constrained fronthaul,” /IEEE Trans. Veh. Technol./, vol. 68, no. 6, pp. 6050-6063, Jun., 2019. [papers/Journal/TVT19_ZhouLiShiWong.pdf \[paper\]]{{<a onclick="a(this)"> [bibtex]</a><eum style="display:none">
 @ARTICLE{8693874, 
