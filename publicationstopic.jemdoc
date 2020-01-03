@@ -33,7 +33,7 @@
 /*Journal Articles*/
 . S. Hua, Y. Zhou, K. Yang, and *Y. Shi*, “Reconfigurable intelligent surface for green edge inference,” /submitted/. [https://arxiv.org/abs/1912.00820 \[paper\]]
 . K. Yang, *Y. Shi*, W. Yu, and Z. Ding, “Energy-efficient processing and robust wireless cooperative transmission for edge inference,” /submitted/. [https://arxiv.org/abs/1907.12475 \[paper\]]
-. Y. Shen, *Y. Shi*, J. Zhang, and K. B. Letaief, "LORA: Learning to optimize for resource allocation in wireless networks with few training samples," /IEEE Trans. Wireless Commun./ [https://arxiv.org/abs/1812.07998 \[paper\]]
+. Y. Shen, *Y. Shi*, J. Zhang, and K. B. Letaief, "LORM: Learning to optimize for resource management in wireless networks with few training samples," /IEEE Trans. Wireless Commun./ [https://arxiv.org/abs/1812.07998 \[paper\]]
 . K. Yang, T. Jiang, *Y. Shi*, and Z. Ding, "Federated learning via over-the-air computation," /IEEE Trans. Wireless Commun./ [https://arxiv.org/abs/1812.11750 \[paper\]]
 . K. Yang, *Y. Shi*, and Z. Ding, “Data shuffling in wireless distributed computing via low-rank optimization,” /IEEE Trans. Signal Process./, vol. 67, no. 12, pp. 3087-3099, Jun., 2019. [papers/Journal/TSP19_YangShiDing.pdf \[paper\]] [papers/Codes/TSP19_YangShiDing_code.zip \[codes\]]
 . X. Peng, *Y. Shi*, J. Zhang, and K. B. Letaief, “Layered group sparse beamforming for cache-enabled wireless networks,” /IEEE Trans. Commun./, vol. 65, no. 12, pp. 5589-5603, Nov. 2017. [papers/Journal/lgsbf_tcom17.pdf \[paper\]]
@@ -56,6 +56,7 @@
 *``Convex, Nonconvex, Stochastic”*
 
 /*Magazine Papers*/
+. X. Yuan, Y. Zhang, *Y. Shi*, W. Yan, and H. Liu, “Reconfigurable-intelligent-surface empowered 6G wireless communications: challenges and opportunities,” /submitted/. [https://arxiv.org/abs/2001.00364 \[paper\]] 
 . *Y. Shi*, J. Zhang, W. Chen, and K. B. Letaief, “Generalized sparse and low-rank optimization for ultra-dense networks,” /IEEE Commun. Mag./, vol. 56, no. 6, pp. 42-48, Jun., 2018. [papers/Journal/sparselowrank_commag18.pdf \[paper\]] [slides/17Globecom_Models.pdf \[slides I\]] [slides/17Globecom_Algorithms.pdf \[slides II\]]
 . *Y. Shi*, J. Zhang, K. B. Letaief, B. Bai, and W. Chen, “Large-scale convex optimization for ultra-dense Cloud-RAN,” /IEEE Wireless Commun./, vol. 22, no. 3, pp. 84-91, Jun. 2015. [papers/Journal/cran_wcmag15.pdf \[paper\]]
 
