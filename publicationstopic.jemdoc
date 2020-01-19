@@ -16,6 +16,7 @@
 
 /*Journal Articles*/
 . Y. Shen, *Y. Shi*, J. Zhang, and K. B. Letaief, "LORM: Learning to optimize for resource management in wireless networks with few training samples," /IEEE Trans. Wireless Commun./, vol. 19, no. 1, pp. 665-679, Jan. 2020. [papers/Journal/TWC19_LORM.pdf \[paper\]]
+. H. Choi, T. Jiang, and *Y. Shi*, “Large-scale beamforming for massive MIMO via randomized sketching,” /submitted/. [https://arxiv.org/abs/1903.05904 \[paper\]]
 . H. Wang, F. Zhang, Q. Wu, Y. Hu, and *Y. Shi*, “Nonconvex and nonsmooth sparse optimization via adaptively iterative reweighted methods,” /submitted/. [https://arxiv.org/abs/1810.10167 \[paper\]]
 . J. Dong, K. Yang, and *Y. Shi*, “Ranking from crowdsourced pairwise comparisons via smoothed Riemannian optimization,” /ACM Trans. Knowl. Discovery Data./
 . H. Choi, J. He, H. Hu, and *Y. Shi*, “Fast computing von Neumann entropy for large-scale graphs via quadratic approximations,” /Linear Algebra Appl./ [https://arxiv.org/pdf/1811.11087.pdf \[paper\]]
@@ -69,7 +70,6 @@
 
 /*Journal Articles*/
 . M. Fu, Y. Zhou, and *Y. Shi*, “Reconfigurable intelligent surface empowered downlink non-orthogonal multiple access,” /submitted/. [https://arxiv.org/abs/1910.07361 \[paper\]]
-. H. Choi, T. Jiang, and *Y. Shi*, “Large-scale beamforming for massive MIMO via randomized sketching,” /submitted/. [https://arxiv.org/abs/1903.05904 \[paper\]]
 . Y. Zhou, J. Li, *Y. Shi*, and V. W. Wong, “Flexible functional split design for downlink C-RAN with capacity-constrained fronthaul,” /IEEE Trans. Veh. Technol./, vol. 68, no. 6, pp. 6050-6063, Jun., 2019. [papers/Journal/TVT19_ZhouLiShiWong.pdf \[paper\]]{{<a onclick="a(this)"> [bibtex]</a><eum style="display:none">
 @ARTICLE{8693874, 
 author={Y. {Zhou} and J. {Li} and Y. {Shi} and V. W. S. {Wong} },<br> 
