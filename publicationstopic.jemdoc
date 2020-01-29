@@ -12,16 +12,16 @@
 /*“After writing a story I was always empty and both sad and happy.”*/ — by Ernest Hemingway, “A Moveable Feast"
 
 == Large-Scale Optimization
-*``Learning, Optimization”*
+*``Learning, Manifold”*
 
 /*Journal Articles*/
 . Y. Shen, *Y. Shi*, J. Zhang, and K. B. Letaief, "LORM: Learning to optimize for resource management in wireless networks with few training samples," /IEEE Trans. Wireless Commun./, vol. 19, no. 1, pp. 665-679, Jan. 2020. [papers/Journal/TWC19_LORM.pdf \[paper\]]
 . H. Choi, T. Jiang, and *Y. Shi*, “Large-scale beamforming for massive MIMO via randomized sketching,” /submitted/. [https://arxiv.org/abs/1903.05904 \[paper\]]
 . H. Wang, F. Zhang, Q. Wu, Y. Hu, and *Y. Shi*, “Nonconvex and nonsmooth sparse optimization via adaptively iterative reweighted methods,” /submitted/. [https://arxiv.org/abs/1810.10167 \[paper\]]
 . J. Dong, K. Yang, and *Y. Shi*, “Ranking from crowdsourced pairwise comparisons via smoothed Riemannian optimization,” /ACM Trans. Knowl. Discovery Data./
-. H. Choi, J. He, H. Hu, and *Y. Shi*, “Fast computing von Neumann entropy for large-scale graphs via quadratic approximations,” /Linear Algebra Appl./ [https://arxiv.org/pdf/1811.11087.pdf \[paper\]]
-. H. Choi, H. Lee, Y. Shen, and *Y. Shi*, “Comparing large-scale graphs based on quantum probability theory,” /Appl. Math. Comput./ [https://arxiv.org/abs/1807.00252 \[paper\]] 
 . H. Choi, S. Kim, and *Y. Shi*, “Geometric mean of partial positive definite matrices with missing entries,” /Linear Multilinear Algebra/. [https://arxiv.org/abs/1811.00547 \[paper\]]
+. H. Choi, J. He, H. Hu, and *Y. Shi*, “Fast computing von Neumann entropy for large-scale graphs via quadratic approximations,” /Linear Algebra Appl./, vol. 585, pp. 127-146, Jan. 2020. [papers/Journal/LinearAlg20_ChoiShi.pdf \[paper\]] 
+. H. Choi, H. Lee, Y. Shen, and *Y. Shi*, “Comparing large-scale graphs based on quantum probability theory,” /Appl. Math. Comput./, vol. 358, pp. 1-15, Oct. 2019. [papers/Journal/MathComp19_ChoiShi.pdf \[paper\]] 
 . *Y. Shi*, J. Zhang, B. O’Donoghue, and K. B. Letaief, “Large-scale convex optimization for dense wireless cooperative networks,” /IEEE Trans. Signal Process./, vol. 63, no. 18, pp. 4729-4743, Sept. 2015. [papers/Journal/largecvx_tsp15.pdf \[paper\]][https://github.com/SHIYUANMING/large-scale-convex-optimization \[codes\]] [http://signalprocessingsociety.org/get-involved/awards-submit-award-nomination (*The 2016 IEEE Signal Processing Society Young Author Best Paper Award*)]
 
 
@@ -51,7 +51,7 @@
 . *Y. Shi*, J. Dong, and J. Zhang, “Low-overhead communications in IoT networks: structured signal processing approaches,” /submitted/. 
 
 /*Journal Articles*/
-. J. Dong, J. Zhang, *Y. Shi*, and H. Wang, “Faster activity and data detection in massive random access: a multi-armed bandit approach,” /submitted/. 
+. J. Dong, J. Zhang, *Y. Shi*, and H. Wang, “Faster activity and data detection in massive random access: a multi-armed bandit approach,” /submitted/. [https://arxiv.org/abs/2001.10237 \[paper\]] 
 . M. C. Tsakiris, L. Peng, A. Conca, L. Kneip, *Y. Shi*, and H. Choi, “An algebraic-geometric approach to shuffled linear regression,” /IEEE Trans. Inf. Theory/. [https://arxiv.org/abs/1810.05440 \[paper\]]
 . T. Jiang, *Y. Shi*, J. Zhang, and K. B. Letaief, “Joint activity detection and channel estimation for IoT networks: phase transition and computation-estimation tradeoff,” /IEEE Internet of Things J./, vol. 6, no. 4, pp. 6212-6225, Aug. 2019. [papers/Journal/IoT19_JiangShiZhangLetaief.pdf \[paper\]]
 . J. Dong, K. Yang, and *Y. Shi*, “Blind demixing for low-latency communication,” /IEEE Trans. Wireless Commun./, vol. 18, no. 2, pp. 897-911, Feb., 2019. [papers/Journal/demix_twc19.pdf \[paper\]] [papers/Codes/demix_twc19.zip \[codes\]]
