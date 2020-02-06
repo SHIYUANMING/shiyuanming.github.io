@@ -12,7 +12,7 @@
 /*“After writing a story I was always empty and both sad and happy.”*/ — by Ernest Hemingway, “A Moveable Feast"
 
 == Large-Scale Optimization
-*``Learning, Manifold”*
+*``Learning, Nonconvex, Convex”*
 
 /*Journal Articles*/
 . Y. Shen, *Y. Shi*, J. Zhang, and K. B. Letaief, "LORM: Learning to optimize for resource management in wireless networks with few training samples," /IEEE Trans. Wireless Commun./, vol. 19, no. 1, pp. 665-679, Jan. 2020. [papers/Journal/TWC19_LORM.pdf \[paper\]]
@@ -26,7 +26,7 @@
 
 
 == Mobile Edge Artificial Intelligence
-*``Training, Inference”*
+*``Training, Inference, Wireless”*
 
 /*Magazine\/Survey Papers*/
 . *Y. Shi*, K. Yang, T. Jiang, J. Zhang, and K. B. Letaief, “A survey on communication-efficient edge AI: algorithms and systems,” /submitted/.
