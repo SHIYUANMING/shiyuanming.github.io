@@ -14,6 +14,8 @@
 
 == In the Pipeline…
 . *Y. Shi*, K. Yang, T. Jiang, J. Zhang, and K. B. Letaief, “Communication-efficient edge AI: algorithms and systems,” /submitted/. [https://arxiv.org/abs/2002.09668 \[paper\]]
+. Y. Jiang, J. Su, *Y. Shi*, and H. Boris, “Distributed optimization for massive connectivity,” /submitted/.
+. Z. Wang, *Y. Shi*, Y. Zhou, H. Zhou, and N. Zhang, “Wireless-powered over-the-air computation in intelligent reflecting surface aided IoT networks,” /submitted/.
 . J. Dong, J. Zhang, *Y. Shi*, and H. Wang, “Faster activity and data detection in massive random access: a multi-armed bandit approach,” /submitted/. [https://arxiv.org/abs/2001.10237 \[paper\]] 
 . X. Yuan, Y. Zhang, *Y. Shi*, W. Yan, and H. Liu, “Reconfigurable-intelligent-surface empowered 6G wireless communications: challenges and opportunities,” /submitted/. [https://arxiv.org/abs/2001.00364 \[paper\]] 
 . S. Hua, Y. Zhou, K. Yang, and *Y. Shi*, “Reconfigurable intelligent surface for green edge inference,” /submitted/. [https://arxiv.org/abs/1912.00820 \[paper\]]
@@ -61,6 +63,7 @@
 . *Y. Shi*, J. Zhang, and K. B. Letaief, “Group sparse beamforming for green Cloud-RAN,” /IEEE Trans. Wireless Commun./, vol. 13, no. 5, pp. 2809-2823, May 2014. [papers/Journal/gsbf_twc14.pdf \[paper\]] [https://github.com/SHIYUANMING/large-scale-convex-optimization \[codes\]] [http://www.comsoc.org/about/memberprograms/comsoc-awards/marconi (*The 2016 Marconi Prize Paper Award*)]
 
 == Conference Papers
+. Y. Shi, S. Xia, Y. Zhou, and *Y. Shi*, “”Sparse signal processing for massive device connectivity via deep learning,”, in /Proc. IEEE Int. Conf. Commun. (ICC) Workshops/, Dublin, Ireland, Jun. 2020.
 . S. Xia and *Y. Shi*, “Intelligent reflecting surface for massive device connectivity: joint activity detection and channel estimation,” in /Proc. IEEE Int. Conf. Acoust. Speech Signal Process. (ICASSP)/, Barcelona, Spain, May 2020.
 . J. Dong, J. Zhang, and *Y. Shi*, “Bandit sampling for faster activity and data detection in massive random access,” in /Proc. IEEE Int. Conf. Acoust. Speech Signal Process. (ICASSP)/, Barcelona, Spain, May 2020.
 . Q. An, *Y. Shi* and Y. Zhou, “Reconfigurable intelligent surface assisted non-orthogonal unicast and broadcast transmission,” in /Pro. IEEE Veh. Technol. Conf. (VTC)/, Antwerp, Belgium, May 2020.
