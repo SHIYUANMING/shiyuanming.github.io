@@ -1,50 +1,90 @@
 # jemdoc: menu{MENU}{publications.html}
+{{<script type="text/javascript">
+    function a(id){
+        var ele = id.nextSibling;
+        if (ele.style.display =="none")
+        ele.style.display="block";
+        else
+        ele.style.display="none";
+    }
+</script>}}
 = PUBLICATIONS
 /*“After writing a story I was always empty and both sad and happy.”*/ — by Ernest Hemingway, “A Moveable Feast"
 
-== High-Dimensional Data Analysis
-*``Statistics and algorithms of big data”*
+== Machine Learning for Optimization
+*``Learning, Communications, Data”*
 
 /*Journal Articles*/
-. H. Choi, X. Song, and *Y. Shi*, “Randomized method for estimating the von Neumann entropy of large-scale density matrices,” to be /submitted/. [papers/Conference/18globalsip_entropy.pdf \[GlobalSIP version\]]
-. H. Choi, H. Lee, Y. Shen, and *Y. Shi*, “Comparing large-scale graphs based on quantum probability theory,” /submitted/. [https://arxiv.org/abs/1807.00252 \[paper\]] 
-. H. Choi, S. Kim, and *Y. Shi*, “Geometric mean of partial positive definite matrices with missing entries,” /submitted/.
-. J. Dong, K. Yang, and *Y. Shi*, “Ranking from crowdsourced pairwise comparisons via smoothed Riemannian optimization,” /submitted/. [papers/Conference/17icdm_ranking.pdf \[ICDM version\]]
+. J. Dong, J. Zhang, *Y. Shi*, and H. Wang, “Faster activity and data detection in massive random access: a multi-armed bandit approach,” /submitted/. [https://arxiv.org/abs/2001.10237 \[paper\]] 
+. H. Wang, F. Zhang, Q. Wu, Y. Hu, and *Y. Shi*, “Nonconvex and nonsmooth sparse optimization via adaptively iterative reweighted methods,” /submitted/. [https://arxiv.org/abs/1810.10167 \[paper\]]
+. J. Dong, K. Yang, and *Y. Shi*, “Ranking from crowdsourced pairwise comparisons via smoothed Riemannian optimization,” /ACM Trans. Knowl. Discovery Data./,vol. 14, no. 2, pp. 1-26, Feb. 2020. [papers/Journal/TKDD20_DongYangShi.pdf \[paper\]][papers/Codes/TKDD20_DongYangShi_code.zip \[codes\]]
+. Y. Shen, *Y. Shi*, J. Zhang, and K. B. Letaief, "LORM: Learning to optimize for resource management in wireless networks with few training samples," /IEEE Trans. Wireless Commun./, vol. 19, no. 1, pp. 665-679, Jan. 2020. [papers/Journal/TWC19_LORM.pdf \[paper\]]
+. H. Choi, J. He, H. Hu, and *Y. Shi*, “Fast computing von Neumann entropy for large-scale graphs via quadratic approximations,” /Linear Algebra Appl./, vol. 585, pp. 127-146, Jan. 2020. [papers/Journal/LinearAlg20_ChoiShi.pdf \[paper\]] 
+. H. Choi, H. Lee, Y. Shen, and *Y. Shi*, “Comparing large-scale graphs based on quantum probability theory,” /Appl. Math. Comput./, vol. 358, pp. 1-15, Oct. 2019. [papers/Journal/MathComp19_ChoiShi.pdf \[paper\]] 
+. H. Choi, S. Kim, and *Y. Shi*, “Geometric mean of partial positive definite matrices with missing entries,” /Linear Multilinear Algebra/, pp. 1-26, Mar. 2019. [papers/Journal/LMA19_ChoiKimShi.pdf \[paper\]]
+
+
+== Mobile Edge Artificial Intelligence
+*``Training, Inference, Wireless”*
+
+/*Books*/
+. *Y. Shi*, K. Yang, Z. Yang, and Y. Zhou, /Mobile Edge Artificial Intelligence: Opportunities and Challenges,/ Elsevier, Feb. 2021, in preparation. 
+
+/*Magazine\/Survey Papers*/
+. *Y. Shi*, K. Yang, T. Jiang, J. Zhang, and K. B. Letaief, “Communication-efficient edge AI: algorithms and systems,” /IEEE Commun. Surveys Tuts./ [https://arxiv.org/abs/2002.09668 \[paper\]] [slides/edgeAIGC19.pdf \[slides\]]
+. K. Yang, Y. Zhou, Z. Yang, and *Y. Shi*, “Communication-efficient edge AI inference over wireless networks,” /ZTE Commun./.
+. K. Yang, *Y. Shi*, Y. Zhou, Z. Yang, L. Fu, and W. Chen, “Federated machine learning for intelligent IoT via reconfigurable intelligent surface,” /IEEE Netw./ [https://arxiv.org/abs/2004.05843 \[paper\]]
+. K. B. Letaief, W. Chen, *Y. Shi*, J. Zhang, and Y. Zhang, “The roadmap to 6G - AI empowered wireless networks,” /IEEE Commun. Mag./, vol. 57, no. 8, pp. 84-90, Aug. 2019. [papers/Journal/ComMag19_LetaiefChenZhang.pdf \[paper\]]
+
+/*Journal Articles*/
+. S. Hua, Y. Zhou, K. Yang, and *Y. Shi*, “Reconfigurable intelligent surface for green edge inference,” /submitted/. [https://arxiv.org/abs/1912.00820 \[paper\]]
+. X. Yang, T. Jiang, *Y. Shi*, and H. Wang, “An inexact iteratively reweighted approach for efficient neuron pruning,” /IEEE Trans. Comput./
+. K. Yang, *Y. Shi*, W. Yu, and Z. Ding, “Energy-efficient processing and robust wireless cooperative transmission for edge inference,” /IEEE Internet of Things J./. [https://arxiv.org/abs/1907.12475 \[paper\]]
+. X. Yang, S. Hua, *Y. Shi*, H. Wang, J. Zhang, and K. B. Letaief, “Sparse optimization for green edge AI inference,” /J. Commun. Information Netw./, vol. 5, no. 1, Mar. 2020. [papers/Journal/JCIN20_YangHuaShiWangZhangLetaief.pdf \[paper\]][papers/Codes/JCIN20_YangHuaShiWangZhangLetaief_code.zip \[codes\]]
+. K. Yang, T. Jiang, *Y. Shi*, and Z. Ding, "Federated learning via over-the-air computation," /IEEE Trans. Wireless Commun./, vol. 19, no. 3, pp. 2022-2035, Mar. 2020. [papers/Journal/TWC20_YangJiangShiDing.pdf \[paper\]][papers/Codes/TWC20_YangJiangShiDing_code.zip \[codes\]]
+. K. Yang, *Y. Shi*, and Z. Ding, “Data shuffling in wireless distributed computing via low-rank optimization,” /IEEE Trans. Signal Process./, vol. 67, no. 12, pp. 3087-3099, Jun., 2019. [papers/Journal/TSP19_YangShiDing.pdf \[paper\]] [papers/Codes/TSP19_YangShiDing_code.zip \[codes\]]
+
+
+== Intelligent Internet of Things
+*``Access, AirComp, Demixing”*
+
+/*Books*/
+. *Y. Shi*, J. Dong, and J. Zhang, /Low-overhead Communications in IoT Networks: Structured Signal Processing Approaches/, Springer, May 2020. [papers/Book/Spring20_IoT_ShiDongZhang.pdf \[book\]] [https://www.springer.com/gp/book/9789811538698 \[website\]] 
+
+
+/*Journal Articles*/
+. M. C. Tsakiris, L. Peng, A. Conca, L. Kneip, *Y. Shi*, and H. Choi, “An algebraic-geometric approach for linear regression without correspondences,” /IEEE Trans. Inf. Theory/. [https://arxiv.org/abs/1810.05440 \[paper\]]
+. Z. Wang, *Y. Shi*, Y. Zhou, H. Zhou, and N. Zhang, “Wireless-powered over-the-air computation in intelligent reflecting surface aided IoT networks,” /IEEE Internet of Things J./
+. Y. Jiang, J. Su, *Y. Shi*, and H. Boris, “Distributed optimization for massive connectivity,” /IEEE Wireless Commun. Lett./
+. J. Dong, *Y. Shi*, and Z. Ding, “Blind over-the-air computation and data fusion via provable Wirtinger flow,” /IEEE Trans. Signal Process./,vol. 68, pp. 1136-1151, Feb. 2020. [papers/Journal/TSP2020_DongShiDing.pdf \[paper\]][papers/Codes/TSP20_DongShiDing_code.zip \[codes\]]
+. T. Jiang, *Y. Shi*, J. Zhang, and K. B. Letaief, “Joint activity detection and channel estimation for IoT networks: phase transition and computation-estimation tradeoff,” /IEEE Internet of Things J./, vol. 6, no. 4, pp. 6212-6225, Aug. 2019. [papers/Journal/IoT19_JiangShiZhangLetaief.pdf \[paper\]]
+. J. Dong, K. Yang, and *Y. Shi*, “Blind demixing for low-latency communication,” /IEEE Trans. Wireless Commun./, vol. 18, no. 2, pp. 897-911, Feb., 2019. [papers/Journal/demix_twc19.pdf \[paper\]] [papers/Codes/demix_twc19.zip \[codes\]]
 . J. Dong and *Y. Shi*, “Nonconvex demixing from bilinear measurements,” /IEEE Trans. Signal Process./, vol. 66, no. 19, pp. 5152-5166, Oct., 2018. [papers/Journal/demixing_tsp18.pdf \[paper\]] [https://github.com/SHIYUANMING/Demixing-TSP \[codes\]]
 
 
 
-== Mobile Edge Artificial Intelligence
-*``Wireless for AI, AI for wireless”*
-
-/*Journal Articles*/
-. Y. Shen, *Y. Shi*, J. Zhang, and K. B. Letaief, “Scalable network adaption for green Cloud-RANs: An imitation learning approach,” to be /submitted/. [https://arxiv.org/abs/1809.06314 \[GlobalSIP version\]]
-. K. Yang, *Y. Shi*, and Z. Ding, “Data shuffling in wireless distributed computing via low-rank optimization,” /submitted/. [https://arxiv.org/abs/1809.07463 \[paper\]]
-
-
-== Intelligent Internet of Things
-*``Structured linear and bilinear models”*
-
-/*Journal Articles*/
-. X. Song, H. Choi, and *Y. Shi*, “Permuted linear model for header-free communication via symmetric polynomials,” to be /submitted/. [papers/Conference/18isit_permuted.pdf \[ISIT version\]]
-. T. Jiang, *Y. Shi*, J. Zhang, and K. B. Letaief, “Joint activity detection and channel estimation for IoT networks: phase transition and computation-estimation tradeoff,” submitted to /IEEE Internet of Things J./, under second round revision. 
-. J. Dong, K. Yang, and *Y. Shi*, “Blind demixing for low-latency communication,” submitted to /IEEE Trans. Wireless Commun./, under second round version. [https://arxiv.org/abs/1801.02158 \[paper\]]
-
 
 == Ultra-Dense Wireless Networks 
-*``Sparse, low-rank, manifold and stochastic optimization”*
+*``Cloud-RAN, Meta-Surface”*
+
+/*Book Chapters*/
+. *Y. Shi*, K. Yang, and Y. Yang, “Generalized Low-Rank Optimization for Ultra-Dense Fog-RANs,” in /Ultra Dense Networks: Principles and Technologies/, Cambridge University Press, 2020. [papers/Book/fogran20.pdf \[chapter\]] 
+. *Y. Shi*, J. Zhang, K. B. Letaief, B. Bai, and W. Chen, “Large-Scale Convex Optimization For C-RANs,” in /Cloud Radio Access Networks: Principles, Technologies, and Applications/, Cambridge University Press, 2017. [papers/Book/cloudran17.pdf \[chapter\]] 
 
 /*Magazine Papers*/
+. X. Yuan, Y. Zhang, *Y. Shi*, W. Yan, and H. Liu, “Reconfigurable-intelligent-surface empowered 6G wireless communications: challenges and opportunities,” /submitted/. [https://arxiv.org/abs/2001.00364 \[paper\]] 
 . *Y. Shi*, J. Zhang, W. Chen, and K. B. Letaief, “Generalized sparse and low-rank optimization for ultra-dense networks,” /IEEE Commun. Mag./, vol. 56, no. 6, pp. 42-48, Jun., 2018. [papers/Journal/sparselowrank_commag18.pdf \[paper\]] [slides/17Globecom_Models.pdf \[slides I\]] [slides/17Globecom_Algorithms.pdf \[slides II\]]
 . *Y. Shi*, J. Zhang, K. B. Letaief, B. Bai, and W. Chen, “Large-scale convex optimization for ultra-dense Cloud-RAN,” /IEEE Wireless Commun./, vol. 22, no. 3, pp. 84-91, Jun. 2015. [papers/Journal/cran_wcmag15.pdf \[paper\]]
 
 /*Journal Articles*/
-. T. Jiang and *Y. Shi*, “Sparse and low-rank optimization for pliable index coding,” to be /submitted/. [papers/Conference/18globalsip_pliable.pdf \[GlobalSIP version\]]
-. K. Yang, *Y. Shi*, and Z. Ding, “Generalized low-rank optimization for topological cooperation in ultra-dense networks,” submitted to /IEEE Trans. Wireless Commun./, under second round revision. [https://arxiv.org/abs/1809.08537 \[paper\]]
+. H. Choi, T. Jiang, *Y. Shi*, X. Liu, and K. B. Letaief, “Large-scale beamforming for massive MIMO via randomized sketching,” /submitted/. [https://arxiv.org/abs/1903.05904 \[paper\]]
+. M. Fu, Y. Zhou, *Y. Shi*, and K. B. Letaief, “Reconfigurable intelligent surface empowered downlink non-orthogonal multiple access,” /submitted/. [https://arxiv.org/abs/1910.07361 \[paper\]]
+. Y. Zhou, J. Li, *Y. Shi*, and V. W. Wong, “Flexible functional split design for downlink C-RAN with capacity-constrained fronthaul,” /IEEE Trans. Veh. Technol./, vol. 68, no. 6, pp. 6050-6063, Jun., 2019. [papers/Journal/TVT19_ZhouLiShiWong.pdf \[paper\]]
+. K. Yang, *Y. Shi*, and Z. Ding, “Generalized low-rank optimization for topological cooperation in ultra-dense networks,” /IEEE Trans. Wireless Commun./, vol. 18, no. 5, pp. 2539-2552, May, 2019. [papers/Journal/TWC19_YangShiDing.pdf \[paper\]] [papers/Codes/TWC19_YangShiDing_code.zip \[codes\]]
 . X. Liu, *Y. Shi*, J. Zhang, and K. B. Letaief, “Massive CSI acquisition for dense Cloud-RANs with spatial-temporal dynamics,” /IEEE Trans. Wireless Commun./, vol. 17, no. 4, pp. 2557-2570, Apr. 2018. [papers/Journal/massivecsi_twc18.pdf \[paper\]]
 . *Y. Shi*, J. Zhang, W. Chen, and K. B. Letaief, “Enhanced group sparse beamforming for dense green Cloud-RAN: A random matrix approach,” /IEEE Trans. Wireless Commun./, vol. 17, no. 4, pp. 2511-2524, Apr. 2018. [papers/Journal/rmt_twc18.pdf \[paper\]] [https://github.com/SHIYUANMING/RMT-Beamforming-TWC18 \[codes\]]
-. X. Peng, *Y. Shi*, J. Zhang, and K. B. Letaief, “Layered group sparse beamforming for cache-enabled wireless networks,” /IEEE Trans. Commun./, vol. 65, no. 12, pp. 5589-5603, Nov. 2017. [papers/Journal/lgsbf_tcom17.pdf \[paper\]]
 . *Y. Shi*, B. Mishra, and W. Chen, “Topological interference management with user admission control via Riemannian optimization,” /IEEE Trans. Wireless Commun./, vol. 16, no. 11, pp. 7362-7375, Nov. 2017. [papers/Journal/timadmission_twc17.pdf \[paper\]] [https://github.com/SHIYUANMING/TIM-Admission-TWC17 \[codes\]]
+. X. Peng, *Y. Shi*, J. Zhang, and K. B. Letaief, “Layered group sparse beamforming for cache-enabled wireless networks,” /IEEE Trans. Commun./, vol. 65, no. 12, pp. 5589-5603, Nov. 2017. [papers/Journal/lgsbf_tcom17.pdf \[paper\]]
 . *Y. Shi*, J. Zhang, and K. B. Letaief, “Low-rank matrix completion for topological interference management by Riemannian pursuit,” /IEEE Trans. Wireless Commun./, vol. 15, no. 7, pp. 4703-4717, Jul. 2016. [papers/Journal/lrmctim_twc16.pdf \[paper\]] [https://github.com/SHIYUANMING/Low-Rank-Matrix-Completion-TIM \[codes\]]
 . *Y. Shi*, J. Cheng, J. Zhang, B. Bai, W. Chen and K. B. Letaief, “Smoothed /Lp/-minimization for green Cloud-RAN with user admission control,” /IEEE J. Select. Areas Commun./, vol. 34, no. 4, pp. 1022-1036, Apr. 2016. [papers/Journal/smgsbf_jsac16.pdf \[paper\]] [https://github.com/SHIYUANMING/Green-Cloud-RAN-JSAC \[codes\]]
 . *Y. Shi*, J. Zhang, B. O’Donoghue, and K. B. Letaief, “Large-scale convex optimization for dense wireless cooperative networks,” /IEEE Trans. Signal Process./, vol. 63, no. 18, pp. 4729-4743, Sept. 2015. [papers/Journal/largecvx_tsp15.pdf \[paper\]][https://github.com/SHIYUANMING/large-scale-convex-optimization \[codes\]] [http://signalprocessingsociety.org/get-involved/awards-submit-award-nomination (*The 2016 IEEE Signal Processing Society Young Author Best Paper Award*)]

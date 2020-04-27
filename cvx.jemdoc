@@ -1,6 +1,6 @@
 # jemdoc: menu{MENU}{teaching.html}, showsource
 = SI251: Convex Optimization
-[http://shiyuanming.github.io Yuanming Shi], ShanghaiTech University, Spring 2018
+[http://shiyuanming.github.io Yuanming Shi], ShanghaiTech University, Spring 2019
 
 == Description
 The focus of this course is theory and algorithms for convex optimization (though we also may touch upon nonconvex optimization problems at some points), with particular emphasis on problems that arise in financial engineering and machine learning. Our goal is to gain a fundamental understanding of convex analysis, modeling and approximation, in addition with convergence rates, complexity, scaling and statistical behaviors of various algorithms, including both first-order and second-order methods, as well as both deterministic and randomized algorithms. Upon completing the course, students should have the capability of unveiling the hidden convexity of problems by appropriate manipulations, characterizing the solutions either analytically or algorithmically, designing and implementing efficient algorithms.
