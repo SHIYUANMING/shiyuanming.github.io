@@ -11,8 +11,8 @@
 = PUBLICATIONS
 /*“After writing a story I was always empty and both sad and happy.”*/ — by Ernest Hemingway, “A Moveable Feast"
 
-== Machine Learning for Optimization
-*``Learning, Communications, Data”*
+== Intelligent Communications and Networks
+*``Learning, Optimization, Data”*
 
 /*Journal Articles*/
 . J. Dong, J. Zhang, *Y. Shi*, and H. Wang, “Faster activity and data detection in massive random access: a multi-armed bandit approach,” /submitted/. [https://arxiv.org/abs/2001.10237 \[paper\]] 
@@ -45,11 +45,11 @@
 . K. Yang, *Y. Shi*, and Z. Ding, “Data shuffling in wireless distributed computing via low-rank optimization,” /IEEE Trans. Signal Process./, vol. 67, no. 12, pp. 3087-3099, Jun., 2019. [papers/Journal/TSP19_YangShiDing.pdf \[paper\]] [papers/Codes/TSP19_YangShiDing_code.zip \[codes\]]
 
 
-== Intelligent Internet of Things
+== Internet of Things
 *``Access, AirComp, Demixing”*
 
 /*Books*/
-. *Y. Shi*, J. Dong, and J. Zhang, /Low-overhead Communications in IoT Networks: Structured Signal Processing Approaches/, Springer, May 2020. [papers/Book/Spring20_IoT_ShiDongZhang.pdf \[book\]] [https://www.springer.com/gp/book/9789811538698 \[website\]] 
+. *Y. Shi*, J. Dong, and J. Zhang, /Low-overhead Communications in IoT Networks: Structured Signal Processing Approaches/, Springer, Apr. 2020. [papers/Book/Spring20_IoT_ShiDongZhang.pdf \[book\]] [https://link.springer.com/book/10.1007/978-981-15-3870-4 \[website\]] [papers/Codes/Spring20_IoT_ShiDongZhang_code.zip \[codes\]]
 
 
 /*Journal Articles*/
