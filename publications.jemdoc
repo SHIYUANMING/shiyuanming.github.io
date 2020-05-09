@@ -32,7 +32,7 @@
 
 /*Magazine\/Survey Papers*/
 . *Y. Shi*, K. Yang, T. Jiang, J. Zhang, and K. B. Letaief, “Communication-efficient edge AI: algorithms and systems,” /IEEE Commun. Surveys Tuts./ [https://arxiv.org/abs/2002.09668 \[paper\]] [slides/edgeAIGC19.pdf \[slides\]]
-. K. Yang, Y. Zhou, Z. Yang, and *Y. Shi*, “Communication-efficient edge AI inference over wireless networks,” /ZTE Commun./.
+. K. Yang, Y. Zhou, Z. Yang, and *Y. Shi*, “Communication-efficient edge AI inference over wireless networks,” /ZTE Commun./ [https://arxiv.org/abs/2004.13351 \[paper\]]
 . K. Yang, *Y. Shi*, Y. Zhou, Z. Yang, L. Fu, and W. Chen, “Federated machine learning for intelligent IoT via reconfigurable intelligent surface,” /IEEE Netw./ [https://arxiv.org/abs/2004.05843 \[paper\]]
 . K. B. Letaief, W. Chen, *Y. Shi*, J. Zhang, and Y. Zhang, “The roadmap to 6G - AI empowered wireless networks,” /IEEE Commun. Mag./, vol. 57, no. 8, pp. 84-90, Aug. 2019. [papers/Journal/ComMag19_LetaiefChenZhang.pdf \[paper\]]
 
@@ -55,9 +55,9 @@
 /*Journal Articles*/
 . M. C. Tsakiris, L. Peng, A. Conca, L. Kneip, *Y. Shi*, and H. Choi, “An algebraic-geometric approach for linear regression without correspondences,” /IEEE Trans. Inf. Theory/. [https://arxiv.org/abs/1810.05440 \[paper\]]
 . Z. Wang, *Y. Shi*, Y. Zhou, H. Zhou, and N. Zhang, “Wireless-powered over-the-air computation in intelligent reflecting surface aided IoT networks,” /IEEE Internet of Things J./
-. Y. Jiang, J. Su, *Y. Shi*, and H. Boris, “Distributed optimization for massive connectivity,” /IEEE Wireless Commun. Lett./
+. Y. Jiang, J. Su, *Y. Shi*, and B. Houska, “Distributed optimization for massive connectivity,” /IEEE Wireless Commun. Lett./
 . J. Dong, *Y. Shi*, and Z. Ding, “Blind over-the-air computation and data fusion via provable Wirtinger flow,” /IEEE Trans. Signal Process./,vol. 68, pp. 1136-1151, Feb. 2020. [papers/Journal/TSP2020_DongShiDing.pdf \[paper\]][papers/Codes/TSP20_DongShiDing_code.zip \[codes\]]
-. T. Jiang, *Y. Shi*, J. Zhang, and K. B. Letaief, “Joint activity detection and channel estimation for IoT networks: phase transition and computation-estimation tradeoff,” /IEEE Internet of Things J./, vol. 6, no. 4, pp. 6212-6225, Aug. 2019. [papers/Journal/IoT19_JiangShiZhangLetaief.pdf \[paper\]]
+. T. Jiang, *Y. Shi*, J. Zhang, and K. B. Letaief, “Joint activity detection and channel estimation for IoT networks: phase transition and computation-estimation tradeoff,” /IEEE Internet of Things J./, vol. 6, no. 4, pp. 6212-6225, Aug. 2019. [papers/Journal/IoT19_JiangShiZhangLetaief.pdf \[paper\]] [papers/Codes/IoT19_JiangShiZhangLetaief_code.zip \[codes\]]
 . J. Dong, K. Yang, and *Y. Shi*, “Blind demixing for low-latency communication,” /IEEE Trans. Wireless Commun./, vol. 18, no. 2, pp. 897-911, Feb., 2019. [papers/Journal/demix_twc19.pdf \[paper\]] [papers/Codes/demix_twc19.zip \[codes\]]
 . J. Dong and *Y. Shi*, “Nonconvex demixing from bilinear measurements,” /IEEE Trans. Signal Process./, vol. 66, no. 19, pp. 5152-5166, Oct., 2018. [papers/Journal/demixing_tsp18.pdf \[paper\]] [https://github.com/SHIYUANMING/Demixing-TSP \[codes\]]
 
