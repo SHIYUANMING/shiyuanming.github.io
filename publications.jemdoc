@@ -11,8 +11,8 @@
 = PUBLICATIONS
 /*“After writing a story I was always empty and both sad and happy.”*/ — by Ernest Hemingway, “A Moveable Feast"
 
-== Intelligent Communications and Networks
-*``Learning, Optimization, Data”*
+== Large-Scale Optimization
+*``Learning, Data, Stochastic”*
 
 /*Journal Articles*/
 . J. Dong, J. Zhang, *Y. Shi*, and H. Wang, “Faster activity and data detection in massive random access: a multi-armed bandit approach,” /submitted/. [https://arxiv.org/abs/2001.10237 \[paper\]] 
@@ -24,7 +24,7 @@
 . H. Choi, S. Kim, and *Y. Shi*, “Geometric mean of partial positive definite matrices with missing entries,” /Linear Multilinear Algebra/, pp. 1-26, Mar. 2019. [papers/Journal/LMA19_ChoiKimShi.pdf \[paper\]]
 
 
-== Mobile Edge Artificial Intelligence
+== Edge Artificial Intelligence
 *``Training, Inference, Wireless”*
 
 /*Books*/
