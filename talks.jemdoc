@@ -2,6 +2,8 @@
 = TALKS
 
 == Tutorials
+. Federated Machine Learning in 6G: Opportunities and Challenges [slides/FL_tutorial_ICCC21.pdf \[slides\]]
+.. [https://iccc2021.ieee-iccc.org IEEE/CIC International Conference on Communications in China], Xiamen, Jul. 2021.
 . Mobile Edge Artificial Intelligence: Opportunities and Challenges [slides/edgeAIGC19.pdf \[slides\]]
 .. [https://globecom2019.ieee-globecom.org IEEE Global Communications Conference (GLOBECOM)], Waikoloa, HI, USA, Dec. 2019.
 . Sparse and low-rank optimization for dense wireless networks: models, algorithms and theory [sparserank.html \[slides\]]
@@ -11,10 +13,14 @@
 
 
 == Invited Talks
+. Graph neural networks for large-scale optimization in wireless networks
+.. East China Normal University, Shanghai, Jun. 2021. 
+.. Huawei Technologies Co., Ltd., Shanghai, May 2021.
 . Reconfigurable intelligent surface empowered wireless networks 
 .. Shandong University, Online, May 2020.
 .. Huawei Technologies Co., Ltd., Shanghai, Dec. 2019
 . Federated machine learning via over-the-air computation [slides/19edgeML.pdf \[slides\]]
+.. East China Normal University, Shanghai, Jun. 2021. 
 .. Shandong University, Online, May 2020.
 .. Xiamen University, Xiamen, Jul. 2019.
 .. Zhejiang University, Hangzhou, May 2019.
